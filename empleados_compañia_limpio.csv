@@ -1,0 +1,1390 @@
+codigo_empleado,nombre_completo,departamento,salario,fecha_ingreso,numero_proyectos,horas_semanales
+E021178901,Martha Muro Bances,Administración General,2800.0,1989-10-29,1,13.0
+E023344901,Karolina Panta Fernandez,Investigación y Desarrollo (I+D),4100.0,1989-06-25,1,25.5
+E023456789,Javier Melendez Rojas,Dirección Estratégica,2000.0,1995-06-30,1,14.8
+E024567890,Juan Mendoza Celis,Investigación y Desarrollo (I+D),5000.0,1994-02-16,1,10.5
+E025678901,Maria Morales Fernandez,Dirección Estratégica,4500.0,1993-05-25,1,20.8
+E027755441,Joaquin Puertas Luna,Investigación y Desarrollo (I+D),3100.0,1994-10-15,1,14.8
+E027890123,Antonio Morante Ramirez,Investigación y Desarrollo (I+D),2500.0,1996-07-27,1,17.5
+E028822998,Andrea Pantoja Rodriguez,Administración General,4300.0,1992-09-23,1,5.25
+E090000001,Jacinto Yataco Torrealva,Investigación y Desarrollo (I+D),5000.0,1993-01-12,1,10.0
+E090000002,Boris Jiménez Matallana,Investigación y Desarrollo (I+D),3500.0,1982-09-09,1,25.5
+E090000003,Ivonne Yactahuamán Calúa,Administración General,2500.0,1975-11-11,1,22.5
+E090000004,Lizbeth Julca Gastelo,Administración General,3500.0,1997-06-10,1,15.5
+E090000005,Richard Jaramillo Delgado,Investigación y Desarrollo (I+D),4500.0,1998-10-05,1,5.5
+E090000006,Zarella Yañez Ruiz,Investigación y Desarrollo (I+D),2500.0,1982-05-20,1,10.25
+E090000007,Vladimir Yriarte Duschenko,Administración General,3500.0,1999-09-30,1,22.25
+E090000008,Artemio Jirafales Pérez,Dirección Estratégica,4500.0,1996-01-01,1,23.0
+E090000010,Renzo Juárez Picardo,Dirección Estratégica,3200.0,2000-12-01,1,15.5
+E090000011,Flor Yapzáng Yovera,Dirección Estratégica,5000.0,2003-08-25,1,9.5
+E100036065,Luis Fernández Mendoza,Administración General,701.0,2023-03-24,2,28.0
+E101973799,Martín Bobadilla Achulli,Recursos Humanos,1689.0,2017-01-08,3,27.0
+E102109922,FELIX VASQUEZ CORONADO,Investigación y Desarrollo (I+D),3164.0,2015-03-09,4,22.0
+E103311707,Jorge Rodríguez Castillo,Desarrollo de Producto,3014.0,2022-06-26,4,31.0
+E103344573,ALEJANDRO Chávez Mestanza,Dirección Estratégica,2815.0,2010-01-05,2,13.0
+E103853696,Aleix Gomez Hidalgo,Estrategia y Planificación,3369.0,2003-07-30,4,33.0
+E103860719,Sofía García Chávez,Contabilidad,3937.0,2017-10-11,4,22.0
+E105262949,Carmen Fernández Ortiz,Dirección Estratégica,2781.0,2019-10-23,4,23.0
+E105337350,Claudia Sánchez Gómez,Dirección Estratégica,2138.0,2023-05-19,4,32.0
+E106281233,María Rodríguez Ramos,Logística,3210.0,2012-03-28,4,15.0
+E106587569,Francisco García Mendoza,Responsabilidad Social Corporativa,2240.0,2023-10-16,3,30.0
+E107134910,ERIC OCHOA NAVARRO,Finanzas,3324.0,2014-05-28,4,32.0
+E109243056,Patricia Cruz Mendoza,Mantenimiento,5000.0,2016-08-26,2,18.0
+E110702970,Gabriela González Mendoza,Recursos Humanos,1114.0,2020-04-16,3,22.0
+E113070105,Pedro Ramírez Morales,Marketing,3332.0,2009-05-04,2,9.0
+E113284979,ISABEL Martos Paredes,Marketing,3364.0,2009-07-08,2,26.0
+E113309879,María Rodríguez Chávez,Responsabilidad Social Corporativa,3409.0,2024-06-18,2,13.0
+E114854969,CRISTOBAL CHAVARRI NATIVIDAD,Dirección Estratégica,4128.0,2011-04-24,4,27.0
+E115167939,ALFREDO Villanueva Albuquerque,Tecnologías de la Información (TI),2584.0,2018-04-19,4,38.0
+E115754984,Pedro González Suárez,Marketing,4550.0,2024-01-06,2,13.0
+E115927691,MARC SALAZAR VALDERRAMA,Atención al Cliente,2392.0,2015-03-31,2,5.0
+E116830988,GERMAN Paiva Neciosup,Finanzas,3922.0,2019-02-01,4,17.0
+E117041501,Gabriela Sánchez Ortiz,Ventas,3739.0,2021-11-29,2,13.0
+E118073128,Miguel Martínez Morales,Contabilidad,2872.0,2016-09-04,2,22.0
+E118105459,Laura Cruz Gómez,Marketing,2281.0,2022-08-31,3,37.0
+E118548879,Jorge Sánchez Torres,Compras,3299.0,2022-03-25,4,28.0
+E119355419,Ana González Flores,Recursos Humanos,5000.0,2024-09-24,4,32.0
+E119357119,INES Maltos Magdaleno,Marketing,4531.0,2010-09-01,3,19.0
+E120216028,Claudia López Ramos,Finanzas,1848.0,2024-01-13,3,24.0
+E120647736,Juan Pérez Gómez,Marketing,3347.0,2022-01-03,4,32.0
+E121337108,MAGDALENA LIMA NARVAEZ,Legal,4464.0,2018-07-22,3,35.0
+E121449606,Manuel Cruz Chávez,Logística,3817.0,2023-02-03,2,25.0
+E122454973,Juan Rodríguez Flores,Seguridad y Salud Ocupacional,3727.0,2024-06-26,4,30.0
+E122967578,Claudia Fernández Mendoza,Logística,531.0,2023-12-10,3,29.0
+E123456789,José Silva Torres,Investigación y Desarrollo (I+D),3000.0,1990-12-12,3,43.8
+E124017991,Dylan MOISES BRUNA,Investigación y Desarrollo (I+D),2067.0,2013-12-15,4,22.0
+E124280884,Manuel Sánchez Morales,Tecnologías de la Información (TI),2092.0,2017-08-15,3,31.0
+E124875380,Claudia Ramírez Morales,Producción,1996.0,2021-09-26,2,21.0
+E125194422,José Fernández Morales,Dirección Estratégica,2327.0,2024-09-10,3,13.0
+E125695943,Luis Martínez Torres,Responsabilidad Social Corporativa,3387.0,2023-04-04,3,21.0
+E126215766,Anas Paico Marín,Contabilidad,1729.0,2021-04-06,4,32.0
+E126314556,Lucía López Chávez,Marketing,3990.0,2024-04-25,4,27.0
+E126904046,Lucía Ramírez Mendoza,Compras,2374.0,2024-04-26,2,10.0
+E126912655,CRISTIAN ZAVALETA CARO,Investigación y Desarrollo (I+D),2899.0,2013-09-11,3,30.0
+E127262568,Antonio Castañeda Ballesteros,Recursos Humanos,2894.0,2010-02-14,3,12.0
+E127383188,Lucía Ramírez Gómez,Estrategia y Planificación,1625.0,2021-12-31,4,28.0
+E128403376,Manuel Ramírez Gómez,Finanzas,2436.0,2024-07-26,4,18.0
+E128927781,Ana Fernández Ramos,Legal,3648.0,2024-03-12,2,11.0
+E129122910,Gabriela Cruz Chávez,Ventas,3081.0,2009-03-19,4,22.0
+E129435871,Enzo León Alvarez,Marketing,4661.0,2011-03-29,3,35.0
+E130412953,JOSE IGNACIO Otoya Altamirano,Contabilidad,1804.0,2016-04-03,4,31.0
+E130641179,ESPERANZA López Molina,Administración General,2776.0,2009-02-03,4,38.0
+E131691384,JOSE LUIS Quispe Merino,Calidad,2663.0,2022-02-01,2,12.0
+E132837733,PAULA Mechán Sánchez,Recursos Humanos,4545.0,2017-04-17,3,29.0
+E133039746,María Sánchez Suárez,Mantenimiento,2238.0,2023-11-30,4,35.0
+E133288827,José Cruz Torres,Compras,538.0,2023-03-20,4,31.0
+E133859433,Francisco Ramírez Chávez,Finanzas,5000.0,2019-06-21,4,29.0
+E133887009,TOMAS Arteaga Carhua,Producción,3581.0,2020-09-21,3,29.0
+E136595779,Luis Martínez Gómez,Estrategia y Planificación,2352.0,2022-10-21,4,16.0
+E137200712,PABLO Coronado Muñoz,Atención al Cliente,2915.0,2007-11-29,2,22.0
+E137264332,CLARA Mejía Gutiérrez,Marketing,2718.0,2012-03-19,2,8.0
+E137347143,Claudia Pérez Gómez,Estrategia y Planificación,2011.0,2021-08-01,4,38.0
+E138398794,Laura Rodríguez Torres,Estrategia y Planificación,2486.0,2022-06-14,3,18.0
+E138912822,DANIELA Maguey Tajín,Atención al Cliente,3145.0,2011-01-09,4,35.0
+E139992424,Luis Cruz Gómez,Recursos Humanos,1032.0,2022-06-09,4,28.0
+E140037294,Juan Fernández Ramos,Contabilidad,1527.0,2024-09-10,4,33.0
+E140895485,Lucía Ramírez Ortiz,Mantenimiento,4084.0,2013-01-20,2,9.0
+E141058722,Patricia Ramírez Gómez,Desarrollo de Producto,3261.0,2024-03-23,3,22.0
+E141282611,Jorge Rodríguez Mendoza,Ventas,1776.0,2021-12-04,3,17.0
+E141728412,Isabel Fernández Suárez,Atención al Cliente,3636.0,2022-12-14,2,15.0
+E142366644,Lucía Fernández Mendoza,Investigación y Desarrollo (I+D),2501.0,2019-06-21,4,30.0
+E142869344,ADRIAN JARA RIQUELME,Producción,3342.0,2018-12-15,4,40.0
+E143478560,Sofía Sánchez Suárez,Atención al Cliente,1781.0,2018-01-27,3,32.0
+E143693610,Patricia Martínez Torres,Mantenimiento,1542.0,2014-07-05,4,27.0
+E144191647,Claudia Fernández Morales,Desarrollo de Producto,5000.0,2024-07-06,2,25.0
+E144248891,Fernando Martínez Morales,Logística,3803.0,2022-07-11,4,37.0
+E145644178,Patricia Sánchez Suárez,Investigación y Desarrollo (I+D),1322.0,2023-12-09,4,33.0
+E145810126,María Martínez Gómez,Investigación y Desarrollo (I+D),2137.0,2023-12-13,2,16.0
+E145880170,María Pérez Torres,Compras,4262.0,2013-08-03,2,21.0
+E147080095,Ignacio Alvarez Loaiza,Finanzas,4553.0,2016-11-29,4,28.0
+E147944627,Patricia Sánchez Chávez,Producción,2585.0,2023-10-11,3,32.0
+E148175626,Miguel Sánchez Suárez,Recursos Humanos,2779.0,2024-04-23,2,18.0
+E149885348,Claudia Fernández Torres,Finanzas,3418.0,2022-11-11,4,31.0
+E150702648,Lucía Rodríguez Flores,Responsabilidad Social Corporativa,2076.0,2023-10-28,2,24.0
+E151186033,MARIA ELENA Huanca Cuellar,Producción,1675.0,2023-01-12,4,20.0
+E151708380,José Pérez Mendoza,Investigación y Desarrollo (I+D),1398.0,2020-08-26,2,24.0
+E153022836,Claudia González Ortiz,Legal,1793.0,2022-08-01,4,20.0
+E153158448,MANUELA León Junco,Contabilidad,3588.0,2021-11-01,4,25.0
+E153359943,José González Morales,Finanzas,3834.0,2023-05-07,3,32.0
+E153528798,Francisco Ramírez Torres,Mantenimiento,2927.0,2022-10-30,4,14.0
+E153898099,Luis García Flores,Calidad,3372.0,2024-04-19,4,14.0
+E154039241,FELIX Velásquez Acosta,Recursos Humanos,3682.0,2021-08-22,2,28.0
+E154581270,Manuel Fernández Mendoza,Legal,1451.0,2020-10-16,3,26.0
+E154740427,José González Mendoza,Dirección Estratégica,4093.0,2023-07-02,3,31.0
+E156606859,MANUELA Durand Silva,Calidad,4238.0,2007-03-06,3,17.0
+E156852101,ANGELES Mora Herrera,Compras,3052.0,2022-04-08,4,28.0
+E157957638,Fabio Arboleda londoño,Tecnologías de la Información (TI),4048.0,2022-04-24,2,22.0
+E159229361,Laura Sánchez Ortiz,Compras,4132.0,2017-03-14,4,20.0
+E159654825,SAMUEL Chi Velueta,Atención al Cliente,4492.0,2019-02-19,4,23.0
+E160482200,PEDRO Castañeda Ruiz,Marketing,4098.0,2005-03-13,4,23.0
+E162602454,Jorge Fernández Ortiz,Finanzas,1517.0,2017-11-02,4,20.0
+E163617080,Jorge Cruz Torres,Marketing,753.0,2024-05-09,4,35.0
+E163770095,Lucía López Ramos,Legal,5000.0,2013-04-05,4,36.0
+E163933243,Youssef Chavez Manayalle,Administración General,1568.0,2004-03-21,4,32.0
+E164152585,Ana García Torres,Recursos Humanos,1260.0,2024-04-08,2,20.0
+E164530707,Carmen González Chávez,Marketing,5000.0,2024-09-12,2,23.0
+E165179653,Luis Sánchez Flores,Tecnologías de la Información (TI),2822.0,2017-07-16,4,36.0
+E165216242,Ana Ramírez Ramos,Legal,657.0,2001-09-11,4,18.0
+E166363391,Claudia Pérez Morales,Mantenimiento,440.0,2023-06-12,3,23.0
+E166568229,Lucía Pérez Ramos,Mantenimiento,4411.0,2023-12-03,3,22.0
+E167239786,JUAN JOSE Zulueta Rivera,Dirección Estratégica,3512.0,2021-11-29,4,28.0
+E167671335,BELEN BENAVIDES LARA,Calidad,2474.0,2006-10-25,2,29.0
+E169161930,CELIA Roa Montoya,Atención al Cliente,3377.0,2016-10-16,2,20.0
+E169930366,Laura Sánchez Chávez,Calidad,4426.0,2022-08-11,4,18.0
+E170598775,Claudia Fernández Flores,Compras,1738.0,2023-08-19,4,39.0
+E170756432,JAIME MANAY TEZEN,Logística,4050.0,2022-12-13,4,33.0
+E170920605,Ana Sánchez Chávez,Tecnologías de la Información (TI),878.0,2023-12-04,3,32.0
+E171522338,Jorge López Flores,Marketing,2311.0,2022-01-03,2,20.0
+E172405095,María Fernández Suárez,Responsabilidad Social Corporativa,4144.0,2018-07-11,3,15.0
+E172584467,Manuel Cruz Mendoza,Recursos Humanos,1709.0,2019-01-02,2,11.0
+E173844360,Claudia Cruz Morales,Investigación y Desarrollo (I+D),563.0,2022-09-24,2,11.0
+E173866484,LORENA Hernandez Cruz,Atención al Cliente,3647.0,2015-10-05,2,10.0
+E174382859,José Ramírez Ramos,Ventas,3938.0,2024-04-30,4,27.0
+E175813024,JOSE ANTONIO Salguera Mendieta,Tecnologías de la Información (TI),2988.0,2016-06-13,2,20.0
+E176213793,MARIA JESUS Anacleto Silva,Producción,2670.0,2019-10-23,3,31.0
+E176306309,David Corado Andrade,Producción,3379.0,2012-12-22,4,29.0
+E176351024,José Rodríguez Ortiz,Compras,4345.0,2010-10-30,4,33.0
+E176547245,Isabel Martínez Suárez,Atención al Cliente,1091.0,2022-11-18,2,8.0
+E176696367,GONZALO Vásquez Carlos,Recursos Humanos,1209.0,2015-07-22,3,25.0
+E177659814,Francisco Martínez Chávez,Calidad,1792.0,2023-02-01,2,13.0
+E177734525,Isabel García Flores,Dirección Estratégica,1704.0,2022-12-20,2,17.0
+E177759609,DAVID Galarreta Atoche,Compras,2833.0,2022-07-01,4,27.0
+E179208058,VICTOR ROSARIO SUCLUPE,Tecnologías de la Información (TI),2111.0,2007-07-28,4,26.0
+E180236335,Patricia López Castillo,Legal,3956.0,2011-02-15,2,18.0
+E181831154,Francisco Fernández Morales,Administración General,1869.0,2023-01-03,3,27.0
+E182379205,Laura Martínez Castillo,Comunicación Corporativa,1526.0,2023-02-12,4,27.0
+E182599065,Gabriela Cruz Ortiz,Mantenimiento,1091.0,2023-12-11,2,11.0
+E182866167,Lucía González Chávez,Ventas,4465.0,2024-05-27,4,21.0
+E183389850,ISMAEL Nuñez cruz,Investigación y Desarrollo (I+D),3767.0,2019-08-04,4,34.0
+E183417324,Gabriela Rodríguez Flores,Recursos Humanos,3154.0,2023-09-14,4,35.0
+E186008212,CESAR Montero Carpio,Administración General,1601.0,2014-07-07,4,26.0
+E186298728,JOAN Calambas Vivas,Producción,4050.0,2012-08-30,4,24.0
+E186757335,Miguel Martínez Suárez,Mantenimiento,1858.0,2022-03-13,4,24.0
+E187674251,Nicolás Ginga Bungo,Tecnologías de la Información (TI),2991.0,2018-02-12,4,19.0
+E187711051,AGUSTIN Celon vazquez,Recursos Humanos,2424.0,2021-02-08,4,25.0
+E188294430,Sofía Cruz Ramos,Seguridad y Salud Ocupacional,3371.0,2016-01-20,2,11.0
+E188651577,Ana López Ramos,Contabilidad,1074.0,2023-11-01,2,20.0
+E189380108,Isabel Martínez Gómez,Desarrollo de Producto,1571.0,2020-03-23,4,23.0
+E190274557,FERNANDO Tejada ballena,Dirección Estratégica,3447.0,2012-05-18,2,20.0
+E192038615,MIRIAM Osorto Mendez,Recursos Humanos,1698.0,2023-03-21,4,31.0
+E192784433,Patricia López Mendoza,Logística,881.0,2021-11-01,4,25.0
+E192889887,MARIA LUISA Bardales Siesquen,Desarrollo de Producto,4509.0,2003-01-11,4,24.0
+E195543328,Izan Tapias Baena,Contabilidad,3717.0,2020-07-11,4,38.0
+E195772585,Sofía Rodríguez Castillo,Seguridad y Salud Ocupacional,3444.0,2014-09-13,4,33.0
+E195795191,Gabriela Fernández Gómez,Estrategia y Planificación,3072.0,2024-04-11,4,28.0
+E197753088,Lucía Cruz Castillo,Calidad,2015.0,2018-08-01,2,11.0
+E197773000,Imran Puelles Lora,Investigación y Desarrollo (I+D),1464.0,2014-01-16,4,30.0
+E197795729,DIEGO Valdez Rivas,Calidad,1427.0,2022-04-24,3,28.0
+E266000807,Laura González Flores,Comunicación Corporativa,3254.0,2024-01-02,3,29.0
+E198008469,Manuel Ramírez Flores,Marketing,438.0,2024-01-02,3,31.0
+E198440726,MERCEDES CASTILLO HERRERA,Calidad,4697.0,2021-11-05,4,40.0
+E199134740,JULIA Ticona Tapia,Investigación y Desarrollo (I+D),2100.0,2002-08-11,2,10.0
+E199430378,Miguel Cruz Morales,Seguridad y Salud Ocupacional,3247.0,2024-01-26,3,27.0
+E199513457,Patricia Sánchez Mendoza,Comunicación Corporativa,4662.0,2012-08-02,3,20.0
+E199605806,Claudia González Flores,Desarrollo de Producto,2195.0,2019-06-13,3,30.0
+E202537066,Gabriela López Morales,Marketing,1541.0,2022-01-18,4,25.0
+E202927452,Gabriela Martínez Torres,Administración General,3090.0,2021-06-06,4,41.0
+E203234293,VICTOR Noa Bautista,Dirección Estratégica,4668.0,2013-05-05,4,28.0
+E204105159,Carlos Martínez Gómez,Desarrollo de Producto,4667.0,2020-04-22,4,34.0
+E204276983,SARA Calopino Huaman,Administración General,1821.0,2013-08-31,2,25.0
+E207630399,Ana García Suárez,Producción,430.0,2019-05-04,3,37.0
+E207944120,RUBEN MERA RODAS,Recursos Humanos,3050.0,2007-12-31,4,30.0
+E207958912,Isabel Pérez Chávez,Seguridad y Salud Ocupacional,1442.0,2023-01-13,4,38.0
+E208256855,LUIS Flores Paredes,Producción,1506.0,2019-10-09,3,21.0
+E210590931,Sofía Ramírez Castillo,Producción,5000.0,2005-08-13,4,26.0
+E210814592,Manuel Sánchez Torres,Seguridad y Salud Ocupacional,1832.0,2019-12-10,3,25.0
+E211815599,José Ramírez Gómez,Recursos Humanos,578.0,2017-09-26,4,24.0
+E213838316,Miguel Fernández Torres,Calidad,623.0,2022-10-12,4,30.0
+E214698471,Sofía López Flores,Responsabilidad Social Corporativa,641.0,2024-06-14,4,35.0
+E214947128,Pedro Sánchez Gómez,Ventas,4386.0,2021-07-22,3,12.0
+E215039793,Manuel Martínez Suárez,Finanzas,4037.0,2024-01-26,4,33.0
+E215960839,FERNANDO Martinez Panta,Ventas,4464.0,2004-02-29,4,29.0
+E217438670,Laura Cruz Mendoza,Seguridad y Salud Ocupacional,4247.0,2016-02-23,4,31.0
+E217595265,JOSEFA LORA HERNANDEZ,Producción,5000.0,2022-03-21,3,39.0
+E217814317,Eric Segundo Céspedes,Tecnologías de la Información (TI),4526.0,2020-12-28,3,22.0
+E218196052,Fernando Pérez Ramos,Seguridad y Salud Ocupacional,616.0,2023-10-06,3,22.0
+E218504687,Luca Fonseca Castro,Producción,2083.0,2012-12-28,4,20.0
+E219145721,Lucía Fernández Suárez,Ventas,3092.0,2015-12-09,4,29.0
+E219379151,José DIAZ CABALLERO,Finanzas,3138.0,2007-01-23,4,32.0
+E220342304,ANDRES Guevara barreto,Contabilidad,4522.0,2019-01-27,4,29.0
+E220378836,Isabel Sánchez Mendoza,Compras,2893.0,2024-03-21,3,23.0
+E220976219,VICENTE Willians Silverio,Producción,3019.0,2016-07-16,2,17.0
+E221090341,Iván GONZALEZ DIAZ,Estrategia y Planificación,1306.0,2020-12-25,4,22.0
+E221238782,ANTONIO sandoval araujo,Recursos Humanos,3373.0,2012-11-23,4,25.0
+E221752337,Ismael Maya Gutiérrez,Compras,1521.0,2022-01-06,4,38.0
+E222069878,Manuel García Mendoza,Tecnologías de la Información (TI),3618.0,2021-08-29,3,17.0
+E222740941,María Fernández Flores,Desarrollo de Producto,5000.0,2018-12-07,4,26.0
+E223838316,Fernando López Flores,Tecnologías de la Información (TI),509.0,2022-10-31,2,11.0
+E225625865,Isabel Martínez Mendoza,Administración General,1163.0,2023-04-28,4,33.0
+E226847094,Francisco Rodríguez Suárez,Administración General,1210.0,2021-09-20,2,12.0
+E227350629,Pedro González Ortiz,Recursos Humanos,1890.0,2019-06-03,3,18.0
+E227685611,Jorge González Suárez,Desarrollo de Producto,2328.0,2024-01-20,3,19.0
+E227899716,Miguel García Morales,Comunicación Corporativa,3808.0,2019-01-10,3,13.0
+E228140649,Luis Rodríguez Flores,Responsabilidad Social Corporativa,3276.0,2009-03-17,2,23.0
+E228414915,Isabel López Morales,Mantenimiento,2238.0,2007-06-09,4,22.0
+E229261274,Nil Silva Freitas,Ventas,5000.0,2020-04-26,4,30.0
+E229888584,HECTOR Mejia Cortez,Investigación y Desarrollo (I+D),1366.0,2015-06-19,2,14.0
+E230530467,ELENA ZULUAGA HERRERA,Tecnologías de la Información (TI),2330.0,2016-02-17,2,13.0
+E232078921,Francisco Sánchez Ortiz,Seguridad y Salud Ocupacional,3886.0,2021-04-19,3,24.0
+E232970606,Luis Rodríguez Chávez,Finanzas,4040.0,2021-02-19,2,10.0
+E234288196,CAROLINA Conde Coronel,Administración General,2964.0,2015-08-01,2,14.0
+E234313044,SANDRA Torres Vásquez,Marketing,2306.0,2014-05-16,4,37.0
+E234406184,Francisco Rodríguez Torres,Marketing,1680.0,2022-10-30,3,25.0
+E234642630,Gabriela López Castillo,Mantenimiento,3609.0,2023-02-03,2,15.0
+E234884441,Gabriela Sánchez Castillo,Marketing,2618.0,2024-04-28,3,18.0
+E236252782,ALVARO Galán Bernal,Compras,4132.0,2022-06-23,4,25.0
+E237570822,AGUSTIN ESPINOZA CARMEN,Logística,2914.0,2012-10-25,4,31.0
+E237646173,Jorge Sánchez Flores,Seguridad y Salud Ocupacional,4555.0,2023-07-22,4,30.0
+E237651589,José García Chávez,Comunicación Corporativa,5000.0,2024-05-31,2,12.0
+E237682925,ALFREDO Simbala Cruz,Recursos Humanos,2324.0,2022-04-18,4,33.0
+E237900753,Jorge Ramírez Suárez,Marketing,3981.0,2022-10-29,4,42.0
+E238163507,Jorge López Morales,Compras,4551.0,2024-05-05,4,40.0
+E238324284,Sofía González Torres,Tecnologías de la Información (TI),1032.0,2019-10-16,4,28.0
+E238489228,Lucía Fernández Ramos,Recursos Humanos,3514.0,2023-02-16,4,36.0
+E238625574,NATALIA Chávez Victoriano,Producción,1742.0,2009-05-22,4,17.0
+E239529335,LUCIA Llamo Rojas,Finanzas,2482.0,2013-10-19,2,23.0
+E239772681,Sofía López Ramos,Legal,2290.0,2017-10-23,4,27.0
+E240208480,Isabel Rodríguez Mendoza,Producción,3953.0,2011-02-14,2,14.0
+E241164400,Ana Sánchez Morales,Seguridad y Salud Ocupacional,1133.0,2023-12-04,4,27.0
+E241354163,LOURDES Henao Martinez,Investigación y Desarrollo (I+D),4444.0,2012-04-08,4,35.0
+E241457889,Juan Rodríguez Morales,Seguridad y Salud Ocupacional,403.0,2017-09-21,2,14.0
+E241761287,Luis Rodríguez Ramos,Marketing,2492.0,2017-10-13,4,43.0
+E241764727,José Martínez Castillo,Producción,2758.0,2021-09-30,4,36.0
+E243789733,Juan González Gómez,Dirección Estratégica,4368.0,2022-03-04,3,21.0
+E243892363,Carmen Pérez Flores,Finanzas,5000.0,2024-07-28,3,27.0
+E244780416,AITOR Villegas Cubas,Atención al Cliente,3473.0,2021-08-28,4,26.0
+E245147238,Laura González Torres,Dirección Estratégica,599.0,2023-03-08,4,34.0
+E245247517,Miguel Rodríguez Suárez,Producción,1226.0,2020-12-28,2,12.0
+E245618083,Carmen López Suárez,Tecnologías de la Información (TI),1962.0,2020-02-14,2,18.0
+E245805750,Francisco López Castillo,Desarrollo de Producto,4686.0,2016-10-14,2,7.0
+E247388484,CONCEPCION Clavo Tafur,Ventas,4318.0,2003-12-30,3,29.0
+E248226650,Ana Sánchez Ortiz,Recursos Humanos,1082.0,2018-02-26,4,35.0
+E248513136,Jorge García Mendoza,Desarrollo de Producto,2113.0,2012-03-25,3,13.0
+E248780242,Lucía Cruz Ortiz,Comunicación Corporativa,1100.0,2022-04-30,4,31.0
+E249147509,NICOLAS Arnao Vásquez,Atención al Cliente,4462.0,2013-04-26,4,37.0
+E249716860,Luis López Castillo,Legal,1176.0,2024-01-31,3,36.0
+E250496413,CONSUELO Ríos Méndez,Compras,1448.0,2022-12-14,2,24.0
+E250620486,Jorge Sánchez Suárez,Dirección Estratégica,2195.0,2023-05-27,3,33.0
+E252056754,CLAUDIA Bances Vidaurre,Calidad,5000.0,2011-03-13,2,20.0
+E252273734,Gabriela Martínez Mendoza,Recursos Humanos,4265.0,2019-05-26,2,23.0
+E252773118,Teo Aguayo Lopez,Tecnologías de la Información (TI),2071.0,2020-04-06,2,8.0
+E253099937,Francisco González Gómez,Comunicación Corporativa,1469.0,2021-09-02,3,23.0
+E253742971,ROBERTO Cordova taipe,Dirección Estratégica,2415.0,2008-06-28,3,35.0
+E255753356,Manuel Fernández Mendoza,Legal,3843.0,2020-03-19,4,33.0
+E256381091,SAMUEL Gonzalez Corrales,Producción,1651.0,2017-12-14,4,17.0
+E257384054,Francisco Pérez Chávez,Atención al Cliente,1335.0,2023-07-12,4,16.0
+E257511994,CAROLINA GUTIERREZ MAGAN,Dirección Estratégica,4169.0,2022-03-07,4,28.0
+E257773986,Patricia González Torres,Calidad,2358.0,2014-04-23,4,28.0
+E257784660,Fernando Rodríguez Gómez,Responsabilidad Social Corporativa,5000.0,2024-06-06,3,27.0
+E258202320,Luis MESQUITA DUARTE,Legal,2155.0,2011-02-13,3,16.0
+E258487976,Carmen Pérez Torres,Contabilidad,1910.0,2022-10-06,3,19.0
+E258662867,Jorge Sánchez Morales,Investigación y Desarrollo (I+D),3743.0,2023-03-12,2,18.0
+E258832354,Juan Martínez Morales,Comunicación Corporativa,3860.0,2022-05-27,4,30.0
+E259445750,Juan Fernández Ortiz,Investigación y Desarrollo (I+D),545.0,2016-09-19,2,5.0
+E261543203,ANGEL VILCHEZ ARTEAGA,Recursos Humanos,1993.0,2020-11-24,4,28.0
+E263197110,Juan Sánchez Gómez,Tecnologías de la Información (TI),4670.0,2024-01-08,3,24.0
+E263515342,SOFIA Mejia Luna,Marketing,3760.0,2023-02-20,4,36.0
+E263811428,Francisco Ramírez Torres,Desarrollo de Producto,605.0,2024-01-14,4,26.0
+E264446424,Jaime Estrella Collantes,Administración General,1877.0,2006-04-25,4,31.0
+E264808476,Adam Ñiquen Chafloque,Producción,1217.0,2004-07-14,4,32.0
+E265694378,María Pérez Morales,Compras,1353.0,2024-06-11,4,42.0
+E265952798,Juan Sánchez Suárez,Producción,935.0,2019-10-31,3,28.0
+E265995778,Fernando Rodríguez Chávez,Administración General,2691.0,2018-10-04,2,18.0
+E266048944,Manuel Fernández Ramos,Estrategia y Planificación,3779.0,2023-04-13,4,21.0
+E266819155,FRANCISCO Campos Martínez,Investigación y Desarrollo (I+D),1502.0,2016-06-14,4,18.0
+E267413969,María García Castillo,Dirección Estratégica,1503.0,2023-05-13,4,28.0
+E267842250,Lucía López Suárez,Seguridad y Salud Ocupacional,5000.0,2013-09-20,4,25.0
+E269047888,Miguel Cruz Ortiz,Calidad,3053.0,2022-08-01,4,23.0
+E270874254,Ana Fernández Morales,Marketing,2788.0,2022-09-30,2,18.0
+E271402339,ANGELA Puican Velásquez,Investigación y Desarrollo (I+D),4114.0,2013-05-22,2,19.0
+E271812446,Gabriela López Mendoza,Seguridad y Salud Ocupacional,4311.0,2023-06-20,4,38.0
+E273845471,Pedro Fernández Mendoza,Logística,3951.0,2015-05-13,4,29.0
+E273858625,RAQUEL Arana Huertas,Recursos Humanos,3046.0,2018-01-01,4,30.0
+E274239813,Carmen Pérez Morales,Desarrollo de Producto,4039.0,2024-05-01,4,20.0
+E274704526,Luis Fernández Torres,Logística,4444.0,2023-10-22,3,24.0
+E275306248,Ana Fernández Ramos,Mantenimiento,1134.0,2019-03-01,3,30.0
+E276275413,Miguel Pérez Gómez,Finanzas,2908.0,2022-12-02,2,9.0
+E277542193,José González Flores,Calidad,4024.0,2023-09-05,3,26.0
+E278016085,MARIA JOSE Asenjo saavedra,Compras,2234.0,2017-08-06,4,21.0
+E278044417,Francisco González Castillo,Ventas,5000.0,2024-02-27,4,27.0
+E278688921,Pedro Cruz Ortiz,Recursos Humanos,5000.0,2014-03-31,4,16.0
+E278951792,Patricia González Torres,Calidad,2830.0,2023-11-18,4,18.0
+E278978617,Juan Fernández Ramos,Seguridad y Salud Ocupacional,3896.0,2008-10-10,3,32.0
+E279239166,JOSE MIGUEL Olazabal Valera,Producción,1266.0,2022-12-10,3,10.0
+E280260770,Gabriela Sánchez Ortiz,Ventas,1084.0,2019-08-30,4,21.0
+E281625457,Juan González Mendoza,Dirección Estratégica,472.0,2015-08-12,3,22.0
+E281833490,Andrés Amador gutierrez,Calidad,3135.0,2020-05-16,3,28.0
+E282132721,Juan Fernández Castillo,Contabilidad,3003.0,2024-02-01,3,17.0
+E282215027,JOAQUIN Troche Sucojayo,Dirección Estratégica,1273.0,2022-03-19,4,14.0
+E283340851,Juan González Torres,Calidad,3416.0,2022-02-17,4,22.0
+E283498166,Sofía Fernández Gómez,Mantenimiento,2071.0,2022-10-19,4,31.0
+E284963925,PATRICIA MENDOZA HUILCAREMA,Ventas,2752.0,2022-11-26,2,10.0
+E286608941,Laura Ramírez Chávez,Mantenimiento,2044.0,2024-07-10,2,28.0
+E286802677,Juan Ramírez Castillo,Legal,3870.0,2018-05-27,4,30.0
+E287477583,Carlos Rodríguez Ramos,Marketing,1385.0,2024-10-01,4,17.0
+E289425049,FRANCISCA Quitama herrera,Ventas,1577.0,2012-08-06,3,26.0
+E289529699,Jorge López Suárez,Logística,834.0,2020-05-04,4,22.0
+E289681384,Gabriela Sánchez Torres,Atención al Cliente,3882.0,2024-08-05,2,13.0
+E291538827,BLANCA SABRERA MELGAREJO,Recursos Humanos,1922.0,2022-12-02,3,36.0
+E291747247,Laura López Suárez,Logística,4641.0,2024-08-25,3,31.0
+E291910594,Juan García Chávez,Atención al Cliente,461.0,2023-12-23,4,20.0
+E292740391,AINHOA Trujillo Nativiidad,Atención al Cliente,4693.0,2015-04-19,2,2.0
+E293809212,IKER PUESCAS FIESTAS,Compras,2977.0,2008-06-20,3,30.0
+E294034932,Fernando López Torres,Responsabilidad Social Corporativa,4310.0,2023-04-13,3,16.0
+E294510533,José Ramírez Chávez,Legal,4227.0,2013-06-21,2,12.0
+E294695915,José López Ramos,Contabilidad,1024.0,2015-02-15,4,30.0
+E296615295,Carlos Sánchez Suárez,Compras,1662.0,2017-09-07,2,7.0
+E296633524,LUCIA Medina Herrera,Administración General,3783.0,2020-10-23,2,15.0
+E297286711,Ander ROMERO HERRERA,Marketing,1665.0,2019-11-18,3,12.0
+E297525252,Daniel Mercedes Acuña,Marketing,3297.0,2018-12-15,3,18.0
+E299254112,Francisco Pérez Ramos,Marketing,1481.0,2023-03-19,3,19.0
+E299367948,Luis Martínez Gómez,Contabilidad,5000.0,2013-04-29,4,19.0
+E300777564,Fernando Fernández Castillo,Producción,4223.0,2021-06-14,4,34.0
+E301224980,Carmen Sánchez Suárez,Atención al Cliente,4622.0,2023-12-03,2,25.0
+E301755623,LUCAS Zacarias vega,Recursos Humanos,2164.0,2019-10-20,4,28.0
+E303047639,FRANCISCA ALVARADO SALAZAR,Compras,3635.0,2015-09-20,4,33.0
+E303922957,Francisco Fernández Gómez,Atención al Cliente,1701.0,2024-01-30,2,14.0
+E304144702,Juan Ramírez Chávez,Calidad,2896.0,2023-01-19,3,30.0
+E304380200,Sofía López Flores,Seguridad y Salud Ocupacional,963.0,2023-12-05,4,34.0
+E305767758,Carmen Sánchez Chávez,Legal,2167.0,2021-11-24,3,20.0
+E307776467,Isabel López Flores,Administración General,3832.0,2024-07-04,2,12.0
+E307961694,ANDREA landivar justiniano,Estrategia y Planificación,2478.0,2015-01-13,2,15.0
+E308752187,Laura González Morales,Tecnologías de la Información (TI),1337.0,2021-02-22,2,11.0
+E308968892,Ana Rodríguez Suárez,Desarrollo de Producto,1202.0,2023-06-06,2,9.0
+E308987998,SUSANA Palomino Vega,Administración General,1349.0,2019-02-16,3,27.0
+E309540633,LUZ Aguilar Martínez,Contabilidad,3240.0,2013-06-25,2,12.0
+E310442130,SONIA Gallardo Vásquez,Contabilidad,2551.0,2013-07-12,3,31.0
+E312160599,Aarón Choque Condori,Contabilidad,1291.0,2022-01-13,3,24.0
+E312685457,SONIA Medina Luna,Administración General,2904.0,2020-01-21,2,16.0
+E314316865,MONICA Bacilio Vasquez,Tecnologías de la Información (TI),3075.0,2021-05-31,4,21.0
+E314720254,SUSANA Blum Luna,Desarrollo de Producto,4560.0,2019-08-25,3,21.0
+E315367544,Juan Ramírez Suárez,Dirección Estratégica,1355.0,2023-02-22,2,18.0
+E316179923,María Rodríguez Castillo,Comunicación Corporativa,529.0,2022-08-16,3,20.0
+E317352641,Carlos Rodríguez Morales,Calidad,2081.0,2023-03-28,4,24.0
+E317405011,Laura Rodríguez Mendoza,Estrategia y Planificación,2305.0,2024-07-30,4,27.0
+E317452122,Patricia Martínez Mendoza,Desarrollo de Producto,3194.0,2019-09-16,3,18.0
+E317652631,Joel ARAYA FREDES,Calidad,3915.0,2008-08-25,4,33.0
+E317873790,Gabriela Fernández Ortiz,Marketing,1936.0,2024-03-26,4,30.0
+E318115098,Carmen Martínez Castillo,Responsabilidad Social Corporativa,2092.0,2022-06-17,2,20.0
+E318169797,Francisco Fernández Torres,Recursos Humanos,3812.0,2022-11-16,4,21.0
+E318954427,Carmen García Torres,Marketing,2877.0,2012-04-13,4,33.0
+E319245602,RAUL Maldonado Rivera,Estrategia y Planificación,2621.0,2020-06-25,2,26.0
+E319776874,VALERIA Alba Osorio,Ventas,1207.0,2018-12-16,3,26.0
+E320313319,ANNA GALARZA MONTOYA,Legal,4231.0,2021-05-03,2,23.0
+E320999352,Patricia Rodríguez Mendoza,Calidad,3552.0,2024-05-31,4,29.0
+E321948441,JORDI Arteaga Carhua,Marketing,3267.0,2023-03-15,4,25.0
+E322040736,Marc Santos Bertoldo,Atención al Cliente,4429.0,2020-07-27,4,33.0
+E322212877,Ian polanco colon,Investigación y Desarrollo (I+D),1212.0,2023-03-22,2,25.0
+E323104379,Laura Sánchez Chávez,Atención al Cliente,2827.0,2021-03-06,4,39.0
+E323298616,DOMINGO Rivera Alonzo,Finanzas,3439.0,2015-04-03,4,27.0
+E323456474,Oliver silva andrade,Desarrollo de Producto,3762.0,2016-06-13,2,23.0
+E324185344,Francisco García Torres,Atención al Cliente,2866.0,2023-08-17,2,16.0
+E327002238,GUILLERMO perez campos,Atención al Cliente,2474.0,2016-07-16,2,7.0
+E327418029,NOELIA Ibieta Martinez,Contabilidad,2793.0,2023-02-14,3,25.0
+E327854826,María Sánchez Castillo,Responsabilidad Social Corporativa,2067.0,2024-02-22,4,24.0
+E328283915,Jan Avendaño Fuentes,Investigación y Desarrollo (I+D),1935.0,2019-05-22,4,24.0
+E328458250,Carmen Rodríguez Ramos,Recursos Humanos,807.0,2019-05-31,4,28.0
+E328695794,RICARDO CARRILLO CAJO,Estrategia y Planificación,3467.0,2021-12-23,2,9.0
+E330232244,Miguel Pérez Ortiz,Responsabilidad Social Corporativa,5000.0,2024-08-29,2,21.0
+E330920561,Marco CARREÑO ARCE,Estrategia y Planificación,3179.0,2022-08-08,4,20.0
+E331202656,María Rodríguez Torres,Investigación y Desarrollo (I+D),3910.0,2022-11-29,3,22.0
+E332126362,Laura López Mendoza,Mantenimiento,428.0,2016-09-13,2,10.0
+E332723630,Pedro Ramírez Flores,Producción,1215.0,2023-05-10,4,16.0
+E332948736,Patricia Cruz Chávez,Estrategia y Planificación,2225.0,2008-12-27,4,22.0
+E333445555,Federico Vizcarra Gonzales,Investigación y Desarrollo (I+D),4000.0,1980-07-05,5,56.5
+E333711613,Sofía Cruz Flores,Producción,2455.0,2023-01-15,4,39.0
+E333834657,Gabriela Fernández Morales,Seguridad y Salud Ocupacional,4061.0,2013-01-11,4,31.0
+E333935835,MARIA CRISTINA Rosero Gutierrez,Desarrollo de Producto,1488.0,2011-09-11,4,34.0
+E334189614,Isabel Fernández Chávez,Investigación y Desarrollo (I+D),2468.0,2021-06-04,4,39.0
+E334822055,Carmen García Morales,Administración General,1508.0,2020-12-04,4,38.0
+E335016305,Lucía Pérez Chávez,Atención al Cliente,1619.0,2015-10-14,4,29.0
+E335651885,Ana Sánchez Torres,Finanzas,4196.0,2012-02-10,2,26.0
+E337036222,CLAUDIA Mayen Luna,Ventas,3610.0,2019-12-16,4,33.0
+E338242468,OSCAR GUEVARA BRAVO,Legal,3569.0,2014-07-27,3,28.0
+E338654138,Jorge García Torres,Finanzas,5000.0,2018-08-16,4,40.0
+E338658889,Jorge Sánchez Flores,Calidad,669.0,2014-05-16,3,35.0
+E339592463,María Rodríguez Ortiz,Atención al Cliente,2580.0,2023-11-04,2,19.0
+E340138127,Lucía López Gómez,Investigación y Desarrollo (I+D),2974.0,2010-09-18,3,20.0
+E340186053,Fernando Ramírez Torres,Logística,1129.0,2022-03-25,4,22.0
+E340587122,Isabel Sánchez Torres,Logística,1666.0,2021-03-06,2,17.0
+E342383306,ANDRES Narváez Serrano,Administración General,2682.0,2012-03-25,3,17.0
+E343340139,Juan Alvarado Bravo,Marketing,2691.0,2017-11-16,4,34.0
+E343483244,María Rodríguez Ortiz,Mantenimiento,1953.0,2022-02-21,4,36.0
+E346485590,Francisco García Ramos,Marketing,4455.0,2024-09-08,2,15.0
+E348418905,Diego Doria Andrade,Finanzas,3504.0,2022-11-03,3,19.0
+E348944905,Claudia Martínez Suárez,Compras,659.0,2021-11-07,4,32.0
+E349664599,Patricia Pérez Morales,Producción,3777.0,2020-11-28,4,25.0
+E351973271,OLGA PORTILLO MELGAREJO,Estrategia y Planificación,2742.0,2020-08-12,3,30.0
+E352162347,Lucía Rodríguez Suárez,Ventas,529.0,2016-12-03,2,14.0
+E353134183,Jorge Martínez Torres,Producción,4113.0,2019-02-17,4,29.0
+E354379562,Carlos Cruz Gómez,Desarrollo de Producto,5000.0,2015-10-16,3,25.0
+E354565685,Miguel Martínez Mendoza,Investigación y Desarrollo (I+D),4678.0,2015-09-12,3,29.0
+E356376434,JAIME Sánchez Cachay,Atención al Cliente,3439.0,1999-04-25,2,6.0
+E361055459,Ana López Gómez,Finanzas,2396.0,2021-12-16,3,17.0
+E361595233,JUAN Díaz Medel,Tecnologías de la Información (TI),3020.0,2022-12-23,2,18.0
+E362239155,Carlos García Suárez,Marketing,492.0,2010-09-28,2,16.0
+E362247593,Patricia García Torres,Responsabilidad Social Corporativa,4199.0,2014-12-21,4,39.0
+E362645345,Manuel Pérez Morales,Responsabilidad Social Corporativa,5000.0,2017-10-27,4,26.0
+E364602217,Patricia López Ramos,Dirección Estratégica,3665.0,2018-04-27,2,13.0
+E364660402,ALBA POLO LARA,Contabilidad,2107.0,2018-12-03,3,36.0
+E365078632,Jorge Pérez Gómez,Logística,4806.0,2020-06-30,3,26.0
+E365183064,Carlos Fernández Mendoza,Desarrollo de Producto,771.0,2024-08-04,4,18.0
+E365218463,MIGUEL Yucra Meza,Producción,1223.0,2021-05-07,2,27.0
+E366007362,Claudia Fernández Gómez,Administración General,697.0,2021-12-31,2,12.0
+E366014383,José García Chávez,Finanzas,4326.0,2024-01-21,3,19.0
+E366447010,Fernando Ramírez Mendoza,Legal,969.0,2024-03-29,2,11.0
+E368627308,Laura Rodríguez Castillo,Tecnologías de la Información (TI),3032.0,2021-08-11,4,32.0
+E369123962,DOMINGO SANTA CRUZ,Desarrollo de Producto,5000.0,2008-05-23,2,23.0
+E370814103,CARLA Pérez Vigil,Ventas,3524.0,2022-02-15,2,12.0
+E372202265,Gabriela González Flores,Tecnologías de la Información (TI),3136.0,2021-12-17,2,20.0
+E372348152,Pedro Ramírez Morales,Legal,1029.0,2024-04-20,2,11.0
+E372550637,Carmen Martínez Castillo,Compras,4598.0,2021-06-12,3,14.0
+E372581006,Isabel Fernández Morales,Atención al Cliente,1805.0,2024-04-01,3,37.0
+E373218544,Miguel Ramírez Morales,Desarrollo de Producto,3246.0,2024-02-19,4,30.0
+E374533341,Marcos Herrera Antaya,Investigación y Desarrollo (I+D),3290.0,2020-08-04,4,26.0
+E374968604,LAURA Vargas Herrera,Compras,5000.0,2007-11-16,3,35.0
+E375067790,JUAN Valiente Arce,Marketing,3989.0,2017-11-08,3,33.0
+E376716466,María Martínez Chávez,Contabilidad,3084.0,2013-08-15,4,38.0
+E377514771,Jorge García Suárez,Compras,3242.0,2017-10-01,2,15.0
+E378265353,Gael Espinoza Becerra,Compras,3489.0,2005-12-09,4,28.0
+E379425612,Carmen Rodríguez Gómez,Desarrollo de Producto,636.0,2011-10-22,2,15.0
+E380305541,Juan González Gómez,Seguridad y Salud Ocupacional,1927.0,2024-06-27,2,16.0
+E380344271,Ana García Mendoza,Atención al Cliente,1644.0,2021-12-24,2,19.0
+E381156698,Juan García Torres,Ventas,4310.0,2014-07-29,4,23.0
+E381737791,ROSA BELLO VIDAL,Contabilidad,5000.0,2012-04-09,2,22.0
+E382571410,Patricia López Ortiz,Tecnologías de la Información (TI),1259.0,2024-04-13,2,15.0
+E382625252,Francisco Pech Chan,Contabilidad,4032.0,2014-10-31,4,20.0
+E384893460,MARIANO Solano Alburqueque,Contabilidad,4685.0,2022-01-14,2,10.0
+E385778509,Raúl Regalado Fuster,Administración General,2075.0,2010-10-20,4,38.0
+E385906606,LUIS Flores Arrasco,Atención al Cliente,4615.0,2020-10-23,3,19.0
+E387036408,Laura Fernández Castillo,Producción,3736.0,2024-04-02,2,13.0
+E387613371,Ana López Ortiz,Atención al Cliente,4376.0,2023-11-22,4,27.0
+E388927678,María Rodríguez Ramos,Mantenimiento,3388.0,2024-06-06,3,23.0
+E389222418,María Ramírez Flores,Compras,511.0,2024-04-25,2,10.0
+E389534620,Juan González Mendoza,Tecnologías de la Información (TI),4362.0,2023-07-21,4,34.0
+E390216219,Isabel Sánchez Ortiz,Ventas,3010.0,2021-07-17,2,19.0
+E391527511,Sofía Martínez Flores,Finanzas,2640.0,2024-08-09,4,32.0
+E392248836,Miguel Sánchez Suárez,Producción,4106.0,2020-04-17,4,28.0
+E393726390,Gabriela Martínez Gómez,Dirección Estratégica,4095.0,2013-08-01,4,23.0
+E394374797,MARIA ROSA Torres Cuenca,Atención al Cliente,3364.0,2020-05-12,3,14.0
+E394545547,Ana Fernández Castillo,Finanzas,2637.0,2024-09-13,3,29.0
+E402488971,MANUEL Herrera martinez,Estrategia y Planificación,5000.0,2009-11-08,4,33.0
+E404594746,Sofía Fernández Castillo,Dirección Estratégica,2306.0,2020-07-03,2,16.0
+E409771289,JOSEP Burga Coronel,Compras,3085.0,2019-01-22,4,30.0
+E417977078,INES Pelaez Cruz,Administración General,3556.0,2010-12-28,3,26.0
+E426168833,Jesús Racchumí Chicoma,Administración General,3540.0,2021-01-18,4,27.0
+E426542618,Carlos López Ramos,Atención al Cliente,4037.0,2014-04-23,4,32.0
+E430578428,MARTA Chinguel Rodriguez,Compras,1593.0,2020-10-11,3,16.0
+E432941798,María Fernández Castillo,Administración General,793.0,2016-02-19,4,22.0
+E433252542,ARTURO Acuña Guevara,Administración General,2601.0,2022-11-24,4,26.0
+E437029943,Alberto Cruz Fernando,Legal,5000.0,2008-05-14,4,24.0
+E438014066,Miguel Sánchez Suárez,Desarrollo de Producto,1298.0,2014-04-21,4,27.0
+E441467221,Luis Sánchez Suárez,Responsabilidad Social Corporativa,1178.0,2020-06-07,4,28.0
+E453405041,Isabel García Mendoza,Logística,2525.0,2021-02-22,3,15.0
+E453406540,José Pérez Morales,Administración General,4248.0,2024-01-18,4,37.0
+E453453453,Josefa Esparza Castillo,Investigación y Desarrollo (I+D),2500.0,1982-08-18,3,50.5
+E454961220,ENRIQUE Villar Rodriguez,Ventas,2627.0,2008-10-14,3,17.0
+E458178617,Juan González Ortiz,Contabilidad,2993.0,2022-11-18,3,21.0
+E460167046,Pedro Pérez Chávez,Finanzas,1599.0,2018-09-26,3,21.0
+E465092955,Ana Ramírez Morales,Desarrollo de Producto,2310.0,2024-07-16,2,25.0
+E466502386,José Sánchez Gómez,Comunicación Corporativa,1635.0,2019-02-22,2,23.0
+E466781107,Patricia Rodríguez Flores,Legal,3935.0,2023-07-22,4,27.0
+E470710873,ISMAEL JIMENEZ VILLANO,Dirección Estratégica,3225.0,2014-02-09,2,16.0
+E471114363,Luis Cruz Gómez,Seguridad y Salud Ocupacional,2417.0,2021-08-25,3,22.0
+E471127448,Patricia Fernández Ortiz,Producción,2047.0,2017-01-04,4,36.0
+E471480476,Lucía Rodríguez Gómez,Tecnologías de la Información (TI),3821.0,2024-05-15,4,28.0
+E472205508,JORGE cumpa paredes,Finanzas,2584.0,2022-01-10,2,23.0
+E472386625,María García Morales,Contabilidad,2765.0,2023-05-15,4,33.0
+E472811186,EDUARDO Perez borda,Compras,1907.0,2007-12-31,2,9.0
+E472829226,Laura Sánchez Chávez,Mantenimiento,4122.0,2016-03-20,3,24.0
+E473318800,ALFONSO Galeano Torres,Tecnologías de la Información (TI),2701.0,2022-06-13,2,25.0
+E473414446,María Fernández Morales,Administración General,2315.0,2024-07-11,4,36.0
+E473770539,Jorge Ramírez Morales,Responsabilidad Social Corporativa,5000.0,2023-02-28,3,12.0
+E473851029,Carmen Pérez Morales,Seguridad y Salud Ocupacional,1645.0,2016-01-23,4,23.0
+E473857295,CELIA Torres Gaona,Producción,3633.0,2020-04-14,2,10.0
+E473980808,AITOR Melgarejo Acevedo,Atención al Cliente,4292.0,2017-10-19,4,21.0
+E474551950,Miguel Ramírez Flores,Marketing,2788.0,2021-08-26,3,21.0
+E476075908,Fernando Martínez Ramos,Mantenimiento,1391.0,2023-03-10,4,31.0
+E477898205,Pedro Martínez Castillo,Contabilidad,5000.0,2023-03-18,3,13.0
+E477980663,Carmen Sánchez Flores,Ventas,933.0,2023-08-31,3,27.0
+E478371306,OMAR Samaniego Neyra,Contabilidad,2452.0,2020-06-15,3,22.0
+E478635687,Biel Cueva Hernández,Tecnologías de la Información (TI),2147.0,2021-07-20,2,26.0
+E479714325,Claudia Sánchez Gómez,Producción,2278.0,2024-04-22,4,17.0
+E480144008,JORGE Nuñez Bances,Finanzas,1748.0,2022-01-22,4,20.0
+E483055622,Carlos Pérez Flores,Atención al Cliente,3894.0,2015-03-26,2,22.0
+E483709247,GABRIEL Jauregui Valdes,Finanzas,1451.0,2017-01-08,4,33.0
+E485631252,Isabel Rodríguez Castillo,Investigación y Desarrollo (I+D),4833.0,2023-07-06,4,29.0
+E486442613,VICENTE Riojas Bautista,Finanzas,3962.0,2019-10-13,4,28.0
+E486548927,Carmen González Suárez,Dirección Estratégica,2280.0,2016-11-15,4,27.0
+E486598534,Patricia Martínez Flores,Tecnologías de la Información (TI),2532.0,2022-09-29,3,23.0
+E487677883,Jorge Cruz Torres,Estrategia y Planificación,2990.0,2023-10-18,4,31.0
+E488192594,Alejandro Angeles Aguilar,Estrategia y Planificación,2487.0,2021-01-02,2,14.0
+E489395264,Manuel García Castillo,Marketing,3385.0,2019-06-13,2,17.0
+E491461034,Manuel Fernández Ramos,Logística,4630.0,2022-06-02,4,30.0
+E491656284,CARLA GONZALEZ MAHECHA,Ventas,3228.0,2016-01-17,4,28.0
+E492459338,Gabriela Ramírez Morales,Dirección Estratégica,4963.0,2022-01-15,2,9.0
+E492551485,Sofía García Suárez,Ventas,5000.0,2024-07-02,2,13.0
+E492962621,Ana Cruz Morales,Atención al Cliente,2922.0,2013-06-28,4,31.0
+E493943509,Luis González Suárez,Comunicación Corporativa,2445.0,2024-03-26,2,12.0
+E494182382,Sofía García Torres,Calidad,1111.0,2021-09-10,4,28.0
+E495184056,Isabel García Ortiz,Legal,1770.0,2022-08-24,3,17.0
+E495635063,Manuel Cruz Suárez,Estrategia y Planificación,1459.0,2023-08-17,4,30.0
+E496374122,Fernando Pérez Mendoza,Seguridad y Salud Ocupacional,5000.0,2013-10-29,4,42.0
+E496735341,José Fernández Chávez,Investigación y Desarrollo (I+D),1814.0,2021-03-27,4,25.0
+E496799972,JESUS Amutari Justiniano,Desarrollo de Producto,3907.0,2012-12-04,4,21.0
+E497198982,Elías Ubilla Mariños,Finanzas,1646.0,2021-05-03,3,25.0
+E499805638,Isabel Rodríguez Suárez,Estrategia y Planificación,534.0,2011-12-18,4,29.0
+E500410305,Manuel García Ramos,Comunicación Corporativa,4602.0,2023-03-16,4,36.0
+E501651470,Juan Sánchez Morales,Administración General,1454.0,2023-09-16,4,40.0
+E502031016,Laura Cruz Mendoza,Mantenimiento,4171.0,2011-05-06,4,32.0
+E502569491,Juan López Morales,Logística,4394.0,2024-07-18,2,9.0
+E502793370,Matías Alburo Gaitan,Ventas,2870.0,2023-01-04,4,32.0
+E503073667,Juan López Suárez,Finanzas,3614.0,2023-09-25,4,17.0
+E503686844,LAURA QUEREVALÚ PAIVA,Producción,4096.0,2019-02-16,2,20.0
+E504949036,Javier Montañez Ayala,Finanzas,4539.0,2017-03-13,4,23.0
+E505865440,ANA ISABEL Benítez Cordova,Logística,2847.0,2014-12-18,2,21.0
+E506850247,José López Mendoza,Contabilidad,1960.0,2016-11-13,3,21.0
+E507378107,AMPARO Sosa Martínez,Desarrollo de Producto,2889.0,2018-01-19,3,26.0
+E507652471,Juan Martínez Flores,Responsabilidad Social Corporativa,741.0,2024-01-14,4,35.0
+E507730986,Manuel Valencia Albitres,Desarrollo de Producto,3090.0,2016-05-13,2,7.0
+E508603630,Fernando Martínez Ramos,Desarrollo de Producto,2645.0,2024-03-12,4,31.0
+E508682691,Luis García Ramos,Estrategia y Planificación,2221.0,2018-09-21,2,10.0
+E509754179,Manuel Rodríguez Ramos,Marketing,2248.0,2014-03-31,3,28.0
+E510153606,Juan Pérez Torres,Mantenimiento,4618.0,2023-11-24,2,24.0
+E510211017,Ana Sánchez Suárez,Responsabilidad Social Corporativa,1023.0,2023-03-04,2,18.0
+E510715424,José Martínez Morales,Producción,2227.0,2015-10-11,4,37.0
+E510921857,José González Chávez,Comunicación Corporativa,1806.0,2022-07-08,4,16.0
+E511235892,José González Gómez,Logística,3241.0,2024-06-07,4,40.0
+E511420724,Carmen Cruz Mendoza,Atención al Cliente,420.0,2016-11-07,4,32.0
+E511425660,Isabel Ramírez Chávez,Logística,1590.0,2023-02-04,3,35.0
+E511973795,Jorge Pérez Morales,Calidad,559.0,2022-12-02,4,38.0
+E513590519,Ana Pérez Flores,Atención al Cliente,1003.0,2014-11-28,4,25.0
+E513632599,Lucía Pérez Flores,Mantenimiento,5000.0,2014-03-21,2,15.0
+E514011381,Pedro Martínez Flores,Marketing,1602.0,2014-06-13,4,20.0
+E514283051,ALBA Flores Tello,Producción,1790.0,2017-09-06,2,23.0
+E515524915,Fernando González Mendoza,Compras,5000.0,2023-10-20,4,40.0
+E515754609,MARINA Herrera Luna,Administración General,4175.0,2007-01-22,3,22.0
+E516211495,María Cruz Morales,Contabilidad,2933.0,2014-07-09,3,28.0
+E516382981,Asier Rosales Handal,Recursos Humanos,1656.0,2022-08-26,2,8.0
+E516918662,CRISTINA Yupanqui Rodriguez,Producción,3869.0,2014-02-23,2,6.0
+E516940861,Lucía Martínez Ortiz,Atención al Cliente,5000.0,2010-05-06,3,33.0
+E521657149,AINHOA PULLUTASIG GARCES,Administración General,2849.0,2022-02-23,3,17.0
+E522254903,Carmen Ramírez Suárez,Compras,2150.0,2004-02-13,3,30.0
+E522775186,Miguel Pérez Flores,Dirección Estratégica,4676.0,2021-12-13,2,11.0
+E522880020,Isabel Martínez Suárez,Estrategia y Planificación,3353.0,2018-03-02,3,16.0
+E523283928,DANIELA Bergendahl Coronado,Calidad,2684.0,2014-01-08,4,35.0
+E523294295,Jorge Martínez Castillo,Recursos Humanos,3264.0,2017-05-02,4,34.0
+E523889838,Isabel Fernández Morales,Contabilidad,4432.0,2020-01-11,4,34.0
+E524588815,José Ramírez Ortiz,Logística,4679.0,2024-02-25,4,34.0
+E524686577,Luis Martínez Morales,Estrategia y Planificación,983.0,2024-02-15,4,28.0
+E524874414,ISAAC Villegas Murayari,Contabilidad,2865.0,2021-09-03,2,13.0
+E526560703,Jorge López Chávez,Legal,3556.0,2024-03-08,2,16.0
+E526567116,IRENE Atalaya Urrutia,Finanzas,2360.0,1996-01-03,4,18.0
+E528100284,Jorge Rodríguez Gómez,Marketing,3684.0,2022-03-13,4,32.0
+E528141966,María Pérez Ramos,Atención al Cliente,1000.0,2023-11-17,3,32.0
+E528833938,Ana Pérez Torres,Contabilidad,2142.0,2024-05-02,4,39.0
+E530200580,Juan Martínez Castillo,Logística,2588.0,2011-03-02,4,32.0
+E531553084,Patricia Cruz Flores,Estrategia y Planificación,2337.0,2023-11-03,4,35.0
+E531817311,Lucía Martínez Ramos,Marketing,1658.0,2011-03-02,2,19.0
+E531923552,Luis García Mendoza,Investigación y Desarrollo (I+D),765.0,2016-03-08,2,19.0
+E532875063,Lucía Pérez Chávez,Mantenimiento,4531.0,2023-04-10,4,27.0
+E535213804,Fernando Martínez Ortiz,Logística,812.0,2022-01-03,2,12.0
+E535751710,Pedro López Castillo,Dirección Estratégica,2024.0,2023-04-13,4,20.0
+E535976079,Laura López Castillo,Compras,5000.0,2013-09-20,3,28.0
+E537705674,MIGUEL ANGEL CALDERON MORENO,Legal,3060.0,2016-10-23,4,33.0
+E538250861,IRENE Chávez Llanos,Estrategia y Planificación,1628.0,2001-01-22,3,27.0
+E538764924,José Fernández Chávez,Administración General,4103.0,2023-11-20,2,17.0
+E539975586,Francisco Cruz Morales,Ventas,1684.0,2014-10-27,3,33.0
+E540762064,Luis García Flores,Finanzas,1478.0,2024-05-25,2,19.0
+E541674514,FATIMA Davila Garay,Producción,3842.0,2010-05-13,3,17.0
+E541773724,Francisco Rodríguez Gómez,Producción,4103.0,2017-04-24,2,8.0
+E541930188,Ana Ramírez Ramos,Recursos Humanos,436.0,2023-12-21,2,19.0
+E542476679,Claudia Rodríguez Torres,Investigación y Desarrollo (I+D),4468.0,2024-01-30,2,7.0
+E543222255,Tota Tello Huamaní,Investigación y Desarrollo (I+D),800.0,1990-02-01,1,15.0
+E543222555,Tato Trinidad López,Investigación y Desarrollo (I+D),700.0,1990-09-01,1,10.0
+E543225555,Tita Taboada Ayala,Investigación y Desarrollo (I+D),3000.0,1990-08-01,1,5.5
+E543255555,Toña Tequén Rosado,Investigación y Desarrollo (I+D),5000.0,1990-12-01,1,11.0
+E543333333,Tula Tiznado Tiznado,Investigación y Desarrollo (I+D),4000.0,1990-11-01,1,21.5
+E543333335,Tarcila Torrejón Suclupe,Investigación y Desarrollo (I+D),3000.0,1990-05-01,1,8.0
+E543333355,Tatiana Tafur Sánchez,Investigación y Desarrollo (I+D),2000.0,1990-04-01,1,30.0
+E543333555,Tati Torres Saavedra,Investigación y Desarrollo (I+D),1000.0,1990-12-01,1,19.0
+E543335555,Tito Ternero Torres,Investigación y Desarrollo (I+D),2000.0,1990-12-01,1,6.5
+E543355555,Toño Toro Torrejón,Investigación y Desarrollo (I+D),2000.0,1990-11-01,1,20.0
+E543555555,Filomena Farfán Pinto,Administración General,5000.0,1990-10-01,1,18.0
+E544444444,Flor Fierro Peña,Investigación y Desarrollo (I+D),4000.0,1990-09-01,1,8.5
+E544444445,Flora Fleitas Córdova,Logística,5000.0,1990-08-01,1,11.0
+E544444455,Fanny Fiestas Tequén,Dirección Estratégica,3000.0,1990-07-01,1,26.0
+E544444555,Faviola Farroñan Fernandez,Administración General,650.0,1990-06-01,1,4.0
+E544445555,Freddy Fernandez Pérez,Investigación y Desarrollo (I+D),400.0,1990-05-01,1,3.0
+E544455555,Fulvio Farro Roque,Logística,500.0,1990-04-01,1,9.0
+E544555555,Fito Figueroa Gomez,Dirección Estratégica,600.0,1990-03-01,1,17.0
+E544739088,MARIO Apaza Soria,Ventas,4570.0,2003-03-09,3,23.0
+E544898290,José González Gómez,Compras,5000.0,2015-12-06,3,33.0
+E545056887,Gabriela González Castillo,Mantenimiento,2986.0,2024-06-30,4,23.0
+E545555555,Franco Farje Garcia,Administración General,2000.0,1990-02-01,1,9.0
+E551353285,Patricia García Ortiz,Investigación y Desarrollo (I+D),1654.0,2023-09-08,2,14.0
+E554294601,Rafael Florez Falla,Compras,2643.0,2014-03-24,2,11.0
+E555875378,Juan López Mendoza,Comunicación Corporativa,2993.0,2019-03-11,4,40.0
+E556335865,Gabriela Sánchez Torres,Dirección Estratégica,3404.0,2024-01-29,3,13.0
+E560286099,Luka Pichardo López,Estrategia y Planificación,3884.0,2021-10-26,3,38.0
+E562471178,MARIA CONCEPCION Cubas Fernández,Calidad,4567.0,2022-01-16,4,33.0
+E564036355,PATRICIA Santisteban Valdera,Atención al Cliente,5000.0,2012-12-31,4,40.0
+E564801034,Luis Fernández Morales,Administración General,588.0,2024-02-28,2,13.0
+E564872668,Patricia Sánchez Torres,Administración General,1928.0,2021-05-05,4,35.0
+E565811951,SOLEDAD SILVA MARTINEZ,Recursos Humanos,2960.0,2006-03-29,2,14.0
+E566759765,Gabriela Sánchez Mendoza,Finanzas,1228.0,2023-05-07,4,22.0
+E567614687,MARIA ANTONIA Maysundo Fernandez,Contabilidad,3043.0,2020-09-21,2,9.0
+E568263740,FATIMA Sanabria Melero,Finanzas,1272.0,2022-03-13,3,15.0
+E570136192,Luis López Flores,Marketing,4669.0,2019-09-27,3,28.0
+E571034425,MOHAMED Gallardo Valderrana,Desarrollo de Producto,1562.0,2016-02-15,2,18.0
+E571040719,Jorge Rodríguez Torres,Compras,1062.0,2018-10-12,4,37.0
+E571082656,DAVID Ríos Marulanda,Atención al Cliente,2035.0,2012-03-24,3,25.0
+E572112588,Gabriela Fernández Ramos,Calidad,5000.0,2021-02-02,4,31.0
+E572374884,Patricia Rodríguez Mendoza,Estrategia y Planificación,2569.0,2021-12-04,3,35.0
+E572957527,Pedro García Chávez,Finanzas,4359.0,2024-05-27,2,16.0
+E573086004,MARIA CARMEN ODAR NICOLAS,Logística,3771.0,2022-04-02,3,33.0
+E573694562,Juan González Chávez,Desarrollo de Producto,3616.0,2016-09-16,4,21.0
+E574023592,Lucía Sánchez Chávez,Compras,1454.0,2022-01-30,4,32.0
+E574304046,RAUL Benites Bobadilla,Desarrollo de Producto,5000.0,2008-10-14,4,25.0
+E576085203,Juan Fernández Ramos,Investigación y Desarrollo (I+D),2361.0,2020-01-03,4,27.0
+E579473625,Santiago SIERRA FERNANDEZ,Tecnologías de la Información (TI),4218.0,2022-01-18,4,27.0
+E581389863,Carlos Pérez Suárez,Ventas,685.0,2021-03-18,4,18.0
+E582021204,Carmen Pérez Castillo,Producción,4603.0,2008-06-30,2,14.0
+E582501841,Ana García Ramos,Producción,896.0,2021-04-23,3,32.0
+E583532755,Isabel Cruz Chávez,Finanzas,4096.0,2018-03-30,4,18.0
+E583654777,Gonzalo Rodriguez Barrientos,Compras,1328.0,2010-03-05,3,33.0
+E583743129,Gabriela Cruz Mendoza,Responsabilidad Social Corporativa,3268.0,2023-06-12,2,14.0
+E585501061,Rodrigo Chirre Chavez,Producción,1534.0,2014-06-27,2,6.0
+E585583879,Fernando Fernández Castillo,Legal,1785.0,2022-01-24,3,31.0
+E585822905,Jorge Cruz Chávez,Seguridad y Salud Ocupacional,4581.0,2023-10-28,2,10.0
+E586834670,Leo Sánchez Acuña,Contabilidad,3232.0,2021-04-09,2,18.0
+E587104251,RICARDO BARBADILLO UCHOFEN,Marketing,4267.0,2020-08-28,2,23.0
+E587374551,Laura Sánchez Ramos,Logística,4621.0,2023-10-10,2,20.0
+E588590563,YOLANDA Sierra López,Finanzas,4457.0,2022-06-27,4,35.0
+E589232500,Isabel García Gómez,Producción,3155.0,2023-08-29,3,23.0
+E590122119,Isabel González Flores,Responsabilidad Social Corporativa,2223.0,2024-07-01,4,38.0
+E590704173,Carmen Martínez Ramos,Seguridad y Salud Ocupacional,2308.0,2022-04-09,2,17.0
+E591287782,ESTEBAN MUÑOZ GUEVARA,Ventas,2775.0,2011-09-14,3,23.0
+E591516987,Isabel Rodríguez Ortiz,Mantenimiento,2228.0,2024-07-10,4,18.0
+E592589939,Manuel Rodríguez Morales,Marketing,1224.0,2022-09-27,4,31.0
+E593188387,María Pérez Ramos,Recursos Humanos,1462.0,2021-02-07,4,19.0
+E594049525,María Pérez Suárez,Contabilidad,2685.0,2020-02-28,3,19.0
+E594061196,Sofía López Morales,Dirección Estratégica,448.0,2017-08-15,4,30.0
+E594446678,Lucía Sánchez Morales,Compras,747.0,2022-05-15,2,15.0
+E594466499,ALVARO montenegro pastor,Contabilidad,1377.0,2014-06-29,3,28.0
+E594532379,Lucía Fernández Flores,Compras,2131.0,2019-01-28,4,28.0
+E595300434,Aitor Salazar Franco,Logística,2597.0,2014-09-15,3,33.0
+E596557169,Carlos Pérez Flores,Administración General,1144.0,2023-05-27,4,23.0
+E596889709,Claudia Cruz Suárez,Logística,3716.0,2021-09-26,3,25.0
+E598111173,Francisco García Chávez,Responsabilidad Social Corporativa,641.0,2023-12-29,2,10.0
+E598213397,Laura Cruz Mendoza,Logística,3388.0,2022-01-15,2,17.0
+E598713076,ALEX Mendoza Acuña,Investigación y Desarrollo (I+D),1488.0,2016-07-10,3,35.0
+E598763523,Carlos González Flores,Responsabilidad Social Corporativa,3084.0,2020-10-30,4,19.0
+E599892224,Francisco Rodríguez Flores,Tecnologías de la Información (TI),2175.0,2023-07-27,4,23.0
+E600032859,Laura Fernández Castillo,Seguridad y Salud Ocupacional,4154.0,2022-07-26,4,23.0
+E600884444,Vanessa Gonzaga Martinez,Investigación y Desarrollo (I+D),3800.0,1995-03-13,1,1.5
+E600884455,Cindy Urpeque Palacios,Investigación y Desarrollo (I+D),3800.0,1995-03-13,1,13.0
+E601759009,Ana González Morales,Producción,1062.0,2016-06-12,4,20.0
+E602403691,MARIA ANGELES Villanueva Rojas,Administración General,4760.0,2010-12-09,2,12.0
+E602592123,Neizan Cedeno Loor,Calidad,1223.0,2022-08-12,2,14.0
+E603639234,Carmen Cruz Ortiz,Producción,2171.0,2005-02-06,4,34.0
+E604497284,Sofía Pérez Torres,Administración General,954.0,2018-05-04,2,12.0
+E604989256,MARIA ROSARIO CHAVEZ CORDOVA,Contabilidad,1517.0,2021-05-07,4,30.0
+E607149071,Carmen López Suárez,Investigación y Desarrollo (I+D),4876.0,2023-03-17,3,31.0
+E607702412,Manuel Fernández Ramos,Atención al Cliente,3700.0,2018-03-25,2,14.0
+E609094445,Adrián Conde Altamirano,Producción,3109.0,2022-02-09,3,26.0
+E610004849,Pedro Martínez Morales,Investigación y Desarrollo (I+D),2506.0,2023-10-08,2,13.0
+E611385896,Juan González Castillo,Atención al Cliente,4307.0,2023-04-25,2,24.0
+E613453453,Julio Guerra Castillo,Investigación y Desarrollo (I+D),2500.0,1982-08-18,1,4.5
+E613453456,Miguel Ursaiz Mendoza,Investigación y Desarrollo (I+D),2500.0,1982-08-18,1,14.0
+E614370311,HUGO GARCIA TORRES,Compras,1412.0,2022-12-07,3,33.0
+E615443333,EMILIO Yamunaqué Calderón,Dirección Estratégica,2786.0,2022-12-19,3,30.0
+E617662518,Juan Pérez Ramos,Contabilidad,3781.0,2019-11-20,4,16.0
+E617733251,Pedro González Torres,Mantenimiento,586.0,2021-07-13,2,27.0
+E618111383,José Cruz Flores,Finanzas,3684.0,2022-09-25,2,26.0
+E618707957,ALEJANDRO Mera Balcázar,Producción,1736.0,2021-04-15,3,19.0
+E619380204,Darío Araya Ceciliano,Recursos Humanos,4316.0,2015-02-15,4,24.0
+E620254139,Juan Fernández Torres,Estrategia y Planificación,424.0,2019-01-03,4,15.0
+E621129464,Laura Rodríguez Ortiz,Administración General,4521.0,2024-04-17,4,21.0
+E621470919,Patricia Rodríguez Flores,Logística,4425.0,2023-11-29,4,28.0
+E621651927,Claudia Martínez Castillo,Finanzas,606.0,2021-12-31,2,18.0
+E622086228,Jorge Fernández Chávez,Legal,3771.0,2019-11-12,4,14.0
+E622130248,María Fernández Ortiz,Comunicación Corporativa,1047.0,2024-01-12,2,25.0
+E622738734,Lucía Sánchez Suárez,Calidad,1862.0,2021-07-24,3,35.0
+E623540768,Miguel Sánchez Flores,Ventas,2809.0,2022-02-25,4,20.0
+E624360130,ESTHER Gonzales llano,Ventas,3307.0,2022-08-04,2,5.0
+E624743917,Lucía García Torres,Mantenimiento,2697.0,2023-10-13,2,12.0
+E624861616,Luis Fernández Torres,Compras,2818.0,2024-03-19,4,26.0
+E626023541,Laura Cruz Chávez,Recursos Humanos,2941.0,2024-04-12,4,30.0
+E626704605,Miguel Martínez Flores,Recursos Humanos,1810.0,2020-11-26,4,31.0
+E626811317,Pedro González Morales,Finanzas,764.0,2023-06-28,4,42.0
+E627833020,Jorge Pérez Gómez,Seguridad y Salud Ocupacional,1187.0,2017-09-01,2,14.0
+E628374497,Carmen Cruz Ortiz,Logística,2548.0,2020-12-11,4,28.0
+E628856731,Julen Toba Espinoza,Recursos Humanos,2585.0,2020-01-02,4,31.0
+E629797940,Francisco González Ortiz,Ventas,2626.0,2019-12-02,4,34.0
+E630963091,CATALINA CASTRO MONTOYA,Producción,2986.0,2019-08-10,3,26.0
+E632345949,IGNACIO Romero Torres,Marketing,4587.0,2016-08-24,2,14.0
+E632493615,Pedro Ramírez Gómez,Administración General,4351.0,2015-08-21,4,33.0
+E633027488,Carlos López Chávez,Legal,1673.0,2023-02-04,3,16.0
+E633445551,Mario Uriarte Odar,Investigación y Desarrollo (I+D),4000.0,1980-07-05,1,5.0
+E633445555,Luis Gutiérrez Siésquen,Investigación y Desarrollo (I+D),4000.0,1980-07-05,1,9.0
+E634882552,JULIAN Bardales Carlos,Atención al Cliente,4364.0,2016-07-04,4,41.0
+E634966391,Lucía Ramírez Suárez,Recursos Humanos,2282.0,2021-05-14,2,14.0
+E635434389,Claudia López Ramos,Administración General,2019.0,2022-06-26,2,16.0
+E635785864,Ana González Ortiz,Ventas,2567.0,2015-01-13,2,25.0
+E636978709,Miguel Ramírez Castillo,Ventas,2247.0,2019-08-12,4,31.0
+E637036585,Jorge VALDOVINOS CEBALLOS,Calidad,2312.0,2020-06-10,4,33.0
+E637252819,Manuel García Mendoza,Dirección Estratégica,3789.0,2024-01-14,3,14.0
+E637785736,Laura Pérez Suárez,Atención al Cliente,1383.0,2016-02-01,4,21.0
+E637986613,Juan Cruz Chávez,Dirección Estratégica,2400.0,2020-10-25,2,12.0
+E639292698,Carlos González Ortiz,Responsabilidad Social Corporativa,4491.0,2023-02-22,2,18.0
+E640444562,Carlos Ramírez Mendoza,Atención al Cliente,3149.0,2023-11-27,2,9.0
+E642176146,Ana Cruz Torres,Compras,3961.0,2019-12-18,2,10.0
+E644243573,Luis López Flores,Recursos Humanos,1779.0,2021-05-29,2,11.0
+E645315277,José García Torres,Atención al Cliente,3339.0,2024-05-13,3,34.0
+E645565734,Patricia Fernández Chávez,Tecnologías de la Información (TI),1064.0,2023-11-07,2,16.0
+E645709438,Sofía Cruz Gómez,Finanzas,2522.0,2023-02-08,4,28.0
+E645749451,Pedro Pérez Ramos,Mantenimiento,4020.0,2022-05-20,4,26.0
+E646007509,Jorge Martínez Ortiz,Dirección Estratégica,2029.0,2019-03-22,4,29.0
+E646072995,Guillermo Morales Dominguez,Contabilidad,3917.0,2022-08-28,4,30.0
+E646092228,Carlos Pérez Morales,Marketing,4171.0,2023-04-19,4,17.0
+E646098613,Lucía Martínez Mendoza,Calidad,2995.0,2023-03-26,4,36.0
+E646615346,JUAN FRANCISCO Aguilar Mendoza,Dirección Estratégica,2939.0,2023-01-09,4,38.0
+E646633390,José Sánchez Chávez,Finanzas,2565.0,2023-09-14,2,12.0
+E646955802,Laura Cruz Flores,Dirección Estratégica,3679.0,2016-10-01,3,18.0
+E647231503,Fernando Pérez Ramos,Finanzas,4066.0,2023-09-12,4,33.0
+E648009436,Max Peñuelas López,Investigación y Desarrollo (I+D),4785.0,1998-07-21,4,34.0
+E648184880,Patricia Pérez Ramos,Responsabilidad Social Corporativa,976.0,2023-12-21,4,28.0
+E648228476,Fernando Cruz Ramos,Seguridad y Salud Ocupacional,493.0,2024-01-20,3,26.0
+E648500686,Claudia Martínez Morales,Administración General,2195.0,2016-10-11,2,8.0
+E648584715,Carlos Fernández Chávez,Finanzas,3882.0,2023-05-19,4,32.0
+E649268615,Carmen Martínez Flores,Contabilidad,1294.0,2022-02-07,4,29.0
+E649394268,Gabriela González Chávez,Finanzas,414.0,2021-07-12,4,24.0
+E650667862,Carmen López Torres,Legal,3908.0,2022-12-14,4,17.0
+E651035064,PAU Paiva Neciosup,Tecnologías de la Información (TI),3097.0,2019-01-07,2,18.0
+E651619120,Isabel Rodríguez Morales,Desarrollo de Producto,3423.0,2022-11-05,2,24.0
+E651875883,Jorge Pérez Suárez,Calidad,1989.0,2021-10-02,3,31.0
+E653196898,Sofía Ramírez Mendoza,Tecnologías de la Información (TI),3441.0,2012-02-24,4,29.0
+E654303665,Manuel Cruz Mendoza,Investigación y Desarrollo (I+D),536.0,2024-02-07,4,15.0
+E654400949,Patricia Rodríguez Gómez,Calidad,5000.0,2007-03-20,4,37.0
+E655300735,Isabel Rodríguez Gómez,Desarrollo de Producto,4537.0,2022-03-01,3,34.0
+E655419124,Bruno Palacios Balbín,Desarrollo de Producto,4391.0,2019-05-06,2,21.0
+E656918027,Manuel Fernández Ortiz,Mantenimiento,469.0,2023-03-19,4,28.0
+E657819006,María González Castillo,Marketing,2415.0,2024-03-18,4,35.0
+E658722599,Francisco García Gómez,Atención al Cliente,838.0,2024-08-01,4,31.0
+E659132787,Sofía Fernández Chávez,Desarrollo de Producto,2156.0,2023-06-27,4,28.0
+E659407338,Juan Cruz Gómez,Ventas,1336.0,2023-11-23,4,23.0
+E659516162,Juan Fernández Mendoza,Estrategia y Planificación,730.0,2017-07-07,4,31.0
+E659865490,Ana Sánchez Castillo,Marketing,4493.0,2022-07-05,4,25.0
+E660209327,Patricia López Ramos,Calidad,4092.0,2020-07-21,4,17.0
+E661106368,JOSE ANGEL Almeyda Pachas,Compras,3146.0,2012-12-31,4,28.0
+E661188166,Sofía Cruz Mendoza,Administración General,3686.0,2022-04-24,2,26.0
+E661323532,Gabriela González Morales,Estrategia y Planificación,2135.0,2011-10-13,3,18.0
+E662049877,Ana Ramírez Chávez,Responsabilidad Social Corporativa,4532.0,2016-10-10,4,28.0
+E662059749,Juan Sánchez Ramos,Atención al Cliente,1587.0,2024-04-29,2,15.0
+E662357543,ISABEL Minda Hernández,Tecnologías de la Información (TI),1753.0,2023-01-06,4,24.0
+E662554588,JULIA NAVARRETE JUNGAL,Legal,4622.0,2016-11-13,2,13.0
+E663451616,Isabel Fernández Ramos,Contabilidad,1216.0,2023-05-08,4,27.0
+E663564479,Claudia González Ortiz,Ventas,2118.0,2022-01-21,4,35.0
+E663813692,Pablo Perez Alcantara,Contabilidad,1893.0,2003-09-07,2,17.0
+E663817760,INMACULADA CACERES CORDOVA,Compras,1686.0,2015-08-01,4,20.0
+E664144481,Carlos Fernández Torres,Administración General,3263.0,2022-03-13,2,16.0
+E664513693,José Cruz Ortiz,Mantenimiento,1230.0,2020-02-17,2,22.0
+E664821547,Carmen Sánchez Chávez,Tecnologías de la Información (TI),2239.0,2019-09-21,2,25.0
+E666475971,EUGENIA SHINGON OROZCO,Estrategia y Planificación,2994.0,2018-10-10,4,30.0
+E666884444,Ramón Nieto Martinez,Investigación y Desarrollo (I+D),3800.0,1995-03-13,2,25.0
+E667106918,ALICIA Lluncor Vásquez,Estrategia y Planificación,3287.0,2019-05-02,2,12.0
+E667483032,EVA MARIA Cruz Cruz,Contabilidad,4294.0,2011-12-10,4,35.0
+E667565521,Manuel Sánchez Castillo,Seguridad y Salud Ocupacional,2260.0,2024-08-15,3,22.0
+E669648185,NOELIA GALLO CORELLA,Legal,3267.0,2021-05-15,3,32.0
+E669790706,Claudia Cruz Morales,Mantenimiento,5000.0,2023-06-03,2,17.0
+E670663525,Sofía Fernández Morales,Finanzas,4595.0,2023-01-27,3,13.0
+E670963826,Lucía Pérez Gómez,Calidad,524.0,2024-08-13,4,26.0
+E671220047,Carlos García Castillo,Atención al Cliente,506.0,2023-09-04,4,28.0
+E671242160,Carlos Sánchez Castillo,Desarrollo de Producto,3473.0,2021-12-31,2,12.0
+E671994598,Isabel Fernández Ramos,Marketing,2323.0,2016-07-04,4,20.0
+E672709408,María Pérez Ramos,Dirección Estratégica,538.0,2023-10-09,2,10.0
+E673082955,Gabriel Otero Castillo,Finanzas,2325.0,2004-09-17,2,19.0
+E674732714,Miguel Fernández Flores,Logística,2823.0,2013-02-08,3,23.0
+E674837392,Juan Ramírez Mendoza,Recursos Humanos,1891.0,2016-12-09,2,10.0
+E675010849,ALBERTO GUTIERREZ BALCAZAR,Contabilidad,1668.0,2018-04-19,2,13.0
+E675640736,Sofía Rodríguez Castillo,Logística,4959.0,2024-01-30,4,26.0
+E676033534,MARIA GUTIERREZ BALCAZAR,Marketing,4389.0,2019-02-11,2,12.0
+E676401533,Patricia Cruz Ortiz,Tecnologías de la Información (TI),1164.0,2023-06-16,4,24.0
+E676443767,Carlos Fernández Flores,Logística,2199.0,2022-11-22,2,2.0
+E677073363,HUGO Miñope Cajusol,Calidad,2208.0,2012-02-20,3,29.0
+E677325363,Rubén Carbajal Comer,Tecnologías de la Información (TI),3330.0,2022-01-22,3,29.0
+E677846192,Pedro López Chávez,Administración General,3510.0,2019-06-21,2,15.0
+E678453875,Carlos Sánchez Chávez,Comunicación Corporativa,714.0,2023-10-20,4,27.0
+E678855001,Manuel García Flores,Logística,4449.0,2022-04-08,3,25.0
+E678899009,GEMA Solorzano Ortega,Logística,2610.0,2020-03-21,4,30.0
+E679752882,JOSE MANUEL Quiroz Montalván,Administración General,2040.0,2010-12-05,4,31.0
+E680885630,ALEJANDRA ROJAS MAGDALENO,Logística,1433.0,2014-06-29,4,15.0
+E681981911,Enrrique Urtiaga Talledo,Dirección Estratégica,2000.0,2000-09-26,1,4.5
+E681981981,Ricardo Galindo Perales,Dirección Estratégica,2000.0,2000-09-26,1,16.0
+E682453109,Claudia López Torres,Mantenimiento,968.0,2023-05-03,4,22.0
+E683998796,MARIANO Caicedo Cumpa,Finanzas,5000.0,2009-11-15,3,35.0
+E684333906,Laura Sánchez Suárez,Legal,3011.0,2022-09-20,2,13.0
+E684366863,Isabel López Torres,Desarrollo de Producto,3704.0,2018-01-21,4,35.0
+E685050708,ANGEL AREVALO MURCIA,Tecnologías de la Información (TI),2845.0,2021-05-06,4,35.0
+E685501519,GLORIA JIMENEZ MARTINEZ,Contabilidad,1284.0,2017-05-21,4,36.0
+E685671239,Pedro Fernández Torres,Finanzas,4032.0,2022-10-27,3,35.0
+E687654321,Juan Gastlo Quispe,Administración General,4300.0,1990-12-10,1,8.0
+E687654323,Carlos Urcia Dejo,Administración General,4300.0,1990-12-10,1,7.0
+E687987977,Karina Ulloque Neyra,Administración General,2500.0,1998-05-13,1,3.0
+E687987987,Alicia Guerrero Lopez,Administración General,2500.0,1998-05-13,1,22.0
+E688037292,Miguel González Gómez,Dirección Estratégica,878.0,2014-02-23,4,34.0
+E688071650,DANIEL Leytón Azabache,Legal,2802.0,2014-01-26,2,24.0
+E688418501,Francisco García Torres,Responsabilidad Social Corporativa,493.0,2021-02-10,3,29.0
+E688665555,Jaime Galvez Fernandez,Dirección Estratégica,5000.0,1999-10-10,1,6.0
+E689228367,Patricia Fernández Flores,Desarrollo de Producto,2298.0,2019-12-30,3,21.0
+E689289710,Esperanza Uriticoichea Moreno,Dirección Estratégica,2570.0,1996-11-01,1,10.0
+E689289789,Juliana Gándara Morales,Dirección Estratégica,2570.0,1996-11-01,1,11.0
+E689411712,Juan González Flores,Seguridad y Salud Ocupacional,2126.0,2023-01-27,4,32.0
+E690191424,SILVIA LUNA LARA,Logística,4631.0,2014-04-20,3,30.0
+E690390570,Patricia García Ramos,Producción,1533.0,2023-10-28,2,19.0
+E690463365,BEATRIZ loayza tarrillo,Producción,2536.0,2016-08-06,4,36.0
+E691380827,Lucía Sánchez Morales,Producción,3387.0,2024-07-04,4,22.0
+E691983466,Carlos Ramírez Morales,Marketing,2290.0,2023-06-20,3,20.0
+E692822040,Lucía Fernández Torres,Seguridad y Salud Ocupacional,2561.0,2020-07-17,4,15.0
+E693036790,Luis Pérez Suárez,Legal,1733.0,2020-12-07,4,26.0
+E693758796,Mohamed Martínez Duron,Calidad,1880.0,2005-02-22,4,24.0
+E694769766,Carmen González Castillo,Logística,4968.0,2013-10-18,4,23.0
+E695377890,Laura Ramírez Chávez,Contabilidad,934.0,2024-09-10,3,20.0
+E695618104,Pedro Ramírez Ramos,Contabilidad,1952.0,2018-12-23,2,2.0
+E695695302,ALBERT Arévalo Hernández,Recursos Humanos,4544.0,2010-07-03,4,19.0
+E696180141,EVA SERRATO VILCHERRES,Compras,2045.0,2020-03-05,4,35.0
+E696391509,Carlos Ramírez Flores,Ventas,4014.0,2023-07-30,4,27.0
+E696677385,Luis López Ramos,Ventas,4049.0,2024-01-06,4,24.0
+E697613898,JUAN MANUEL Ortega Serruto,Finanzas,5000.0,2022-06-07,2,17.0
+E698212787,Jorge Martínez Torres,Contabilidad,1273.0,2020-04-28,2,12.0
+E699122608,IGNACIO Balcázar Blas,Atención al Cliente,2699.0,2017-07-21,2,5.0
+E699396213,RODRIGO MONSALVE FERNANDEZ,Ventas,5000.0,2011-05-08,4,24.0
+E699887772,Yuliana Ugaz Maquén,Administración General,2500.0,1978-11-06,1,24.0
+E699887777,Tatiana Gonzales Torrealba,Administración General,2500.0,1978-11-06,1,25.0
+E699895956,TERESA Hernández Hernández,Tecnologías de la Información (TI),4542.0,2014-12-12,2,15.0
+E699999929,Jesús Ulloa Ballona,Dirección Estratégica,5000.0,1999-10-10,1,20.0
+E700065382,Isabel Rodríguez Castillo,Estrategia y Planificación,4215.0,2018-06-14,4,24.0
+E700544593,Pedro Cruz Flores,Compras,2303.0,2022-09-30,3,26.0
+E700905283,Miguel García Mendoza,Recursos Humanos,776.0,2022-01-08,2,24.0
+E700948218,Manuel López Chávez,Investigación y Desarrollo (I+D),3450.0,2023-08-05,4,29.0
+E701178901,Martha Hernandez Baca,Investigación y Desarrollo (I+D),2800.0,1989-11-29,1,14.0
+E701364789,Sofía Martínez Ramos,Compras,4475.0,2024-04-16,3,23.0
+E701781110,Adriana Winters Hernandez,Logística,4500.0,1995-05-25,1,13.0
+E703154699,Pedro García Morales,Desarrollo de Producto,2337.0,2021-10-01,2,12.0
+E704175809,Sofía Ramírez Suárez,Producción,1678.0,2022-08-26,4,27.0
+E706009628,Francisco Sánchez Torres,Comunicación Corporativa,928.0,2021-11-19,4,26.0
+E706154322,Laura Sánchez Suárez,Dirección Estratégica,4514.0,2023-02-16,4,21.0
+E707187512,Jorge Rodríguez Ortiz,Comunicación Corporativa,1997.0,2013-01-05,4,34.0
+E707376295,Francisco Ramírez Flores,Atención al Cliente,837.0,2016-05-10,2,13.0
+E707919761,Miguel Ramírez Chávez,Atención al Cliente,3159.0,2019-01-07,4,32.0
+E708553016,José García Suárez,Legal,3236.0,2024-02-05,3,35.0
+E708628298,Sofía Cruz Flores,Seguridad y Salud Ocupacional,1186.0,2024-04-25,4,29.0
+E709008097,José Fernández Suárez,Ventas,5000.0,2014-02-11,4,22.0
+E709146485,Isabel Sánchez Ramos,Ventas,1494.0,2022-12-30,4,36.0
+E709947558,Jorge Ramírez Ramos,Ventas,4579.0,2024-09-04,2,19.0
+E709995901,Ana Wolfenson Bracamonte,Logística,2000.0,1999-01-29,1,12.0
+E710678176,Francisco Cruz Suárez,Desarrollo de Producto,1744.0,2023-01-22,3,19.0
+E711133001,Rosa Winlong Alarcon,Logística,4900.0,1995-12-04,1,11.0
+E711564091,Lucía Cruz Suárez,Recursos Humanos,3055.0,2024-08-13,2,12.0
+E712098420,Fernando González Flores,Estrategia y Planificación,4442.0,2021-10-17,3,16.0
+E712164327,Pedro López Torres,Tecnologías de la Información (TI),5000.0,2023-06-20,2,20.0
+E714094422,FELIPE Pejerrey Alvarado,Estrategia y Planificación,4166.0,2010-01-13,2,7.0
+E714820431,María García Ramos,Ventas,2031.0,2013-02-13,2,10.0
+E714906796,ALBERT CAYLE ANGELES,Administración General,3816.0,2012-09-09,3,31.0
+E715806886,Carmen García Chávez,Finanzas,4184.0,2023-08-21,2,14.0
+E716799433,Francisco Sánchez Flores,Desarrollo de Producto,4668.0,2023-10-16,4,26.0
+E717183043,Patricia Martínez Gómez,Logística,3581.0,2022-07-31,3,27.0
+E717358220,Carlos González Ortiz,Producción,513.0,2019-04-25,3,31.0
+E717460050,MARIA ISABEL Leon Rojas,Tecnologías de la Información (TI),1263.0,2022-12-11,2,13.0
+E718277181,GONZALO Almonte Valdez,Legal,3551.0,2023-01-25,4,37.0
+E718557120,SANTIAGO SAENZ SILVA,Logística,2872.0,2021-11-15,4,28.0
+E718769047,Miguel López Suárez,Logística,3810.0,2022-09-09,4,29.0
+E718958617,Luis López Suárez,Logística,3596.0,2024-02-19,4,35.0
+E719357610,Alan Agapito Lluen,Dirección Estratégica,2459.0,2021-06-20,3,21.0
+E719642128,Manuel García Torres,Marketing,1913.0,2023-01-23,2,25.0
+E720205637,Lucía Sánchez Ortiz,Dirección Estratégica,461.0,2024-09-06,2,24.0
+E720637476,JOSE FRANCISCO SERGIO ANDRES,Investigación y Desarrollo (I+D),3725.0,2016-08-12,4,26.0
+E721133001,Carla Herrera Albujar,Dirección Estratégica,4900.0,1993-05-03,1,9.0
+E721543240,Carmen González Torres,Compras,4218.0,2022-10-31,2,13.0
+E723250556,Manuel Rodríguez Morales,Calidad,2048.0,2019-01-28,2,15.0
+E723344901,Karolina Guillen Horna,Logística,5000.0,1989-06-25,1,10.0
+E724518297,Sofía Sánchez Morales,Legal,1681.0,2020-12-24,3,18.0
+E724555590,Julio Watson Cisneros,Investigación y Desarrollo (I+D),5000.0,1997-02-16,1,6.0
+E724567890,Juan Huamachuco Campos,Investigación y Desarrollo (I+D),5000.0,1997-02-16,1,7.0
+E725382386,Carlos Pérez Castillo,Logística,1279.0,2022-04-18,3,20.0
+E725678010,Maria Hidrogo Fernandez,Dirección Estratégica,4500.0,1995-05-25,1,8.0
+E726252525,Emma Wong Odar,Logística,3500.0,1997-06-03,1,9.0
+E726789010,Elvira Huaman Ordoñes,Investigación y Desarrollo (I+D),5000.0,1997-06-03,1,30.0
+E726941836,ANGELA Bernal Lopez,Calidad,4511.0,2022-02-12,4,29.0
+E727246212,MARIA NIEVES Caballero Garbozo,Tecnologías de la Información (TI),2027.0,2018-10-02,3,30.0
+E727382408,Francisco Fernández Suárez,Comunicación Corporativa,2146.0,2024-07-06,4,20.0
+E727755441,Joaquin Huidobro Lopez,Logística,3000.0,1992-10-15,1,35.0
+E727890122,Antonio Huamani Ramirez,Administración General,2500.0,1996-07-27,1,30.0
+E728822998,Andrea Huuamachuco Rodas,Logística,4300.0,1992-09-23,1,35.0
+E729186271,Francisco Rodríguez Suárez,Legal,4421.0,2019-07-03,3,25.0
+E729271296,Laura González Suárez,Comunicación Corporativa,2949.0,2020-10-25,2,12.0
+E729697006,Miguel Fernández Ramos,Dirección Estratégica,4381.0,2022-10-27,2,15.0
+E729821390,Fernando Cruz Guevara,Calidad,4167.0,2016-08-21,4,31.0
+E730611220,JESUS Melgarejo Atauje,Contabilidad,2277.0,2022-05-10,3,20.0
+E730744043,Patricia López Chávez,Mantenimiento,3396.0,2024-04-21,3,39.0
+E730977852,Gabriela López Suárez,Desarrollo de Producto,2064.0,2021-07-28,2,17.0
+E731222064,Laura Pérez Chávez,Contabilidad,4410.0,2024-05-27,4,30.0
+E731307024,Sofía Cruz Castillo,Producción,2165.0,2020-12-18,4,30.0
+E731344522,Jorge López Torres,Atención al Cliente,4069.0,2019-09-07,4,26.0
+E732103317,Fernando Ramírez Suárez,Legal,1078.0,2010-09-18,2,14.0
+E732350230,Fernando Pérez Suárez,Investigación y Desarrollo (I+D),4700.0,2016-08-08,2,14.0
+E733371575,Claudia García Castillo,Marketing,4112.0,2024-09-16,4,33.0
+E733374025,MERCEDES TICONA TAPIA,Producción,4523.0,2020-07-10,4,32.0
+E733449017,Claudia Want LLanos,Dirección Estratégica,3400.0,1989-09-20,1,30.0
+E733600324,JOSEFA Silva Parraguez,Administración General,3293.0,2020-11-01,3,18.0
+E734335001,Carmen Fernández Flores,Logística,2870.0,2023-06-24,4,24.0
+E734436368,MATEO SALAZAR AGUILAR,Atención al Cliente,3291.0,2022-06-13,2,11.0
+E734497893,Claudia Fernández Torres,Comunicación Corporativa,1499.0,2023-08-31,2,4.0
+E735732610,Lucía Rodríguez Castillo,Desarrollo de Producto,5000.0,2021-09-06,4,33.0
+E737366973,María Fernández Morales,Producción,4016.0,2023-03-17,2,3.0
+E738830357,JAVIER FERNANDEZ ARRASCUE,Dirección Estratégica,1773.0,2016-12-07,2,14.0
+E738854628,Fernando Cruz Morales,Ventas,3960.0,2020-03-11,4,35.0
+E740069783,Jorge Rodríguez Gómez,Compras,4005.0,2023-04-07,4,28.0
+E740451743,Jorge Martínez Torres,Logística,561.0,2022-12-25,3,17.0
+E741585084,Laura Cruz Torres,Compras,3348.0,2018-11-29,4,32.0
+E743210115,Jaime Huancas Rojas,Dirección Estratégica,2000.0,1995-06-30,1,25.0
+E744444444,Luis Winchonlong Romero,Dirección Estratégica,2000.0,1991-01-01,1,20.0
+E744552827,Carmen Martínez Torres,Ventas,1124.0,2024-05-22,3,14.0
+E746031667,José Martínez Suárez,Investigación y Desarrollo (I+D),4751.0,2023-05-01,3,35.0
+E746158855,Carmen García Ortiz,Contabilidad,977.0,2020-06-27,2,4.0
+E746434646,Juan Sánchez Chávez,Producción,3790.0,2023-02-17,2,13.0
+E746678165,ANA MARIA Rueda Paiva,Contabilidad,1248.0,2022-10-18,4,30.0
+E747273718,MIGUEL Otero Arrascue,Administración General,4058.0,2019-01-27,4,26.0
+E747276743,ANGELES Ipanaque Cuellar,Atención al Cliente,5000.0,2019-04-22,4,32.0
+E747658192,VERONICA GONZALEZ CORONADO,Calidad,4597.0,2023-02-15,4,19.0
+E747947151,Jorge Ramírez Morales,Administración General,2776.0,2024-09-10,2,25.0
+E749042204,ROCIO Aguilar Huezo,Producción,5000.0,2002-06-16,3,33.0
+E750574856,VIRGINIA LUMBI OROZCO,Marketing,2011.0,2018-06-17,2,21.0
+E751000685,Isabel Cruz Chávez,Finanzas,3326.0,2023-07-27,3,34.0
+E751117757,Jorge García Torres,Seguridad y Salud Ocupacional,1880.0,2021-06-14,4,24.0
+E752437690,OLGA CORREA GARCES,Logística,2124.0,2022-10-31,2,16.0
+E753408631,BEATRIZ LAURA HUILLCA,Marketing,2277.0,2023-02-05,2,29.0
+E753698742,Carmen López Gómez,Tecnologías de la Información (TI),430.0,2008-01-04,2,18.0
+E753906163,Carlos Pérez Mendoza,Recursos Humanos,3781.0,2024-08-06,2,19.0
+E754025284,Miguel Cruz Flores,Finanzas,1119.0,2023-10-20,3,20.0
+E754346017,IVAN Lopez Robleto,Dirección Estratégica,3295.0,2016-09-04,4,35.0
+E754874113,DARIO Soplapuco Heredia,Estrategia y Planificación,4016.0,2019-09-01,3,22.0
+E755741908,MARIA VICTORIA CARDENAS CRUZ,Marketing,4179.0,2004-01-21,4,29.0
+E755868922,Manuel Sánchez Flores,Tecnologías de la Información (TI),2012.0,2011-12-17,2,14.0
+E756534841,Carlos Pérez Mendoza,Recursos Humanos,3970.0,2023-01-29,3,27.0
+E756893728,Fernando Sánchez Morales,Tecnologías de la Información (TI),5000.0,2024-05-26,3,23.0
+E759633268,Jorge García Flores,Recursos Humanos,4493.0,2023-02-26,4,31.0
+E760039161,NEREA Vasquez Mendez,Calidad,4250.0,2022-11-12,3,21.0
+E760489295,Claudia López Mendoza,Logística,2665.0,2022-09-18,3,15.0
+E762020097,Fernando González Castillo,Marketing,2024.0,2023-11-03,2,18.0
+E762092884,Manuel Martínez Torres,Producción,791.0,2024-02-27,3,25.0
+E762275982,Miguel López Ortiz,Recursos Humanos,2506.0,2020-02-28,3,24.0
+E762576941,Jorge Sánchez Flores,Producción,3585.0,2023-10-28,3,35.0
+E763929961,Luis Rodríguez Torres,Desarrollo de Producto,529.0,2017-08-04,4,33.0
+E764689088,Pedro López Torres,Administración General,2546.0,2018-02-18,3,36.0
+E765166952,María López Suárez,Desarrollo de Producto,2510.0,2020-11-30,2,23.0
+E765238730,DIANA Lorenzo Ortega,Calidad,3413.0,2016-08-17,2,16.0
+E765801677,Carmen Sánchez Torres,Finanzas,4223.0,2020-04-03,2,20.0
+E766857351,Laura González Ortiz,Tecnologías de la Información (TI),5000.0,2016-09-04,4,25.0
+E767010689,Lucía Cruz Suárez,Comunicación Corporativa,4033.0,2019-01-04,4,33.0
+E767152454,Carlos Pérez Ramos,Tecnologías de la Información (TI),4239.0,2024-07-16,3,30.0
+E767360920,José González Flores,Desarrollo de Producto,1739.0,2020-07-31,2,18.0
+E767547449,Rayan Hoyos Gutierrez,Legal,1336.0,2022-03-15,4,24.0
+E767969570,Miguel Martínez Morales,Contabilidad,2845.0,2023-11-27,4,31.0
+E770844608,Francisco Rodríguez Gómez,Calidad,2791.0,2015-02-18,4,27.0
+E771100676,Jorge González Ramos,Comunicación Corporativa,4087.0,2024-09-12,4,26.0
+E771227771,NURIA Alvarado Tolentino,Compras,4453.0,2013-05-04,2,4.0
+E772227620,Claudia Martínez Suárez,Producción,1276.0,2013-12-21,2,26.0
+E772678263,ALICIA Morfín López,Ventas,1965.0,2019-09-04,3,30.0
+E773307277,Manuel Cruz Torres,Ventas,1100.0,2023-07-22,2,10.0
+E773404912,Carlos Fernández Morales,Compras,2627.0,2017-03-03,4,24.0
+E774794190,Claudia García Chávez,Mantenimiento,885.0,2022-11-18,4,33.0
+E777197088,Jorge González Chávez,Estrategia y Planificación,2763.0,2015-05-25,3,28.0
+E777559441,Jose Winch Zapata,Investigación y Desarrollo (I+D),2300.0,1990-10-17,1,15.0
+E777567672,Luis González Suárez,Compras,979.0,2018-12-23,4,19.0
+E777573272,Ana Sánchez Flores,Recursos Humanos,5000.0,2024-08-05,3,19.0
+E777771220,Marcos Waitsman Rodas,Investigación y Desarrollo (I+D),2500.0,1996-07-27,1,10.0
+E779602315,Francisco López Morales,Ventas,1390.0,2023-07-14,4,34.0
+E780037710,GUILLERMO Gallardo Valderrana,Administración General,2659.0,2020-04-06,2,18.0
+E780190686,Carmen López Morales,Finanzas,2637.0,2020-12-29,4,23.0
+E780236982,SEBASTIAN Morera Aguilar,Estrategia y Planificación,2965.0,2011-05-26,2,8.0
+E780457025,María González Castillo,Contabilidad,2811.0,2022-02-11,4,36.0
+E781018382,Carmen Fernández Torres,Finanzas,3217.0,2020-04-15,4,38.0
+E781128400,SANTIAGO rodriguez burgos,Producción,3288.0,2018-11-28,4,22.0
+E781859887,Luis Pérez Gómez,Legal,1847.0,2024-08-30,2,23.0
+E782258618,Patricia Sánchez Ortiz,Atención al Cliente,2587.0,2022-02-25,2,26.0
+E782943194,Laura Rodríguez Gómez,Seguridad y Salud Ocupacional,1246.0,2023-12-23,2,9.0
+E783123518,Carmen Cruz Suárez,Responsabilidad Social Corporativa,617.0,2018-10-05,4,25.0
+E784111490,María Pérez Flores,Marketing,519.0,2014-05-30,3,27.0
+E784348070,MARCO Vásquez Guerra,Administración General,4786.0,2020-02-16,2,18.0
+E785345627,Juan Ramírez Castillo,Comunicación Corporativa,2710.0,2023-10-30,2,11.0
+E786764090,Manuel González Gómez,Contabilidad,4518.0,2021-07-12,3,29.0
+E787147014,Claudia López Suárez,Mantenimiento,1717.0,2024-09-21,4,22.0
+E787358961,RAFAEL Lluen Ballena,Finanzas,1492.0,2023-02-04,4,21.0
+E787363707,Patricia Sánchez Castillo,Finanzas,989.0,2022-11-14,4,28.0
+E787381870,JOSE MARIA Rodriguez Pardo,Producción,3560.0,2022-10-21,4,30.0
+E788229980,Andrea Wodman Saucedo,Administración General,4300.0,1995-09-29,1,5.0
+E789789789,Mario Palacios Morales,Dirección Estratégica,2570.0,1996-11-01,1,35.0
+E792365541,Ana Martínez Castillo,Estrategia y Planificación,3259.0,2021-04-23,4,24.0
+E794710767,CARMEN Hernández Carreon,Desarrollo de Producto,3155.0,2011-08-30,3,20.0
+E795034619,Álex Rodas Arias,Desarrollo de Producto,1907.0,2020-12-07,4,30.0
+E795200444,José Sánchez Flores,Marketing,2079.0,2024-03-14,4,38.0
+E795993501,Luis González Ortiz,Desarrollo de Producto,2799.0,2021-03-18,4,37.0
+E796881621,Francisco Rodríguez Suárez,Producción,3843.0,2022-11-20,3,18.0
+E797658173,JUANA Siesquen Valdivia,Legal,2642.0,2021-12-19,4,32.0
+E797686457,Sofía Martínez Ramos,Contabilidad,1119.0,2024-07-16,3,30.0
+E798023736,Miguel Sánchez Mendoza,Seguridad y Salud Ocupacional,3128.0,2017-10-01,4,40.0
+E798500384,José Cruz Mendoza,Estrategia y Planificación,1293.0,2023-12-29,2,13.0
+E799331982,JOSE RAMON Ubillús Verona,Calidad,3626.0,2021-10-21,3,24.0
+E799510237,Pol Zavala Fuentes,Producción,4571.0,2019-01-08,2,22.0
+E799718010,Carmen Rodríguez Gómez,Tecnologías de la Información (TI),4488.0,2024-03-22,3,15.0
+E799903697,Fernando Rodríguez Mendoza,Calidad,3134.0,2023-01-19,2,10.0
+E800192730,Fernando Fernández Torres,Comunicación Corporativa,3730.0,2019-04-16,2,16.0
+E800780840,Ana González Ramos,Responsabilidad Social Corporativa,2013.0,2021-05-17,2,23.0
+E803187655,Pedro González Flores,Finanzas,859.0,2022-01-08,3,28.0
+E804752685,JOAQUIN Bardales Bueno,Tecnologías de la Información (TI),4396.0,2018-12-09,2,10.0
+E804756116,INMACULADA Sarabia López,Contabilidad,4087.0,2011-02-13,4,27.0
+E805003877,MARTINA Cetino Crúz,Recursos Humanos,3748.0,2020-02-06,4,19.0
+E805157781,Gabriela Fernández Gómez,Contabilidad,531.0,2023-01-29,2,14.0
+E806262953,ALFONSO Tezen Cabrejos,Compras,2907.0,2014-07-11,4,31.0
+E806267472,MARINA Bustamante Vasquez,Compras,1767.0,2013-09-06,4,35.0
+E806282647,Luis González Morales,Estrategia y Planificación,2859.0,2020-12-14,3,20.0
+E806502927,Miguel González Mendoza,Logística,2581.0,2024-02-04,3,18.0
+E807270051,Carlos Rodríguez Ramos,Recursos Humanos,4093.0,2022-06-26,4,16.0
+E807668505,Lucía Cruz Flores,Seguridad y Salud Ocupacional,2253.0,2021-11-25,4,24.0
+E808453785,Juan Fernández Morales,Seguridad y Salud Ocupacional,1021.0,2024-08-05,4,23.0
+E808522008,PAULA PACOTAYPE HUAMAN,Recursos Humanos,2618.0,2018-05-16,2,20.0
+E809278169,Carlos Fernández Mendoza,Tecnologías de la Información (TI),4266.0,2023-07-14,4,31.0
+E810322385,Carmen Martínez Gómez,Investigación y Desarrollo (I+D),1630.0,2022-04-30,3,18.0
+E810379484,Lucía Sánchez Mendoza,Seguridad y Salud Ocupacional,5000.0,2016-10-05,4,32.0
+E810437020,ANA Ortiz Hernández,Legal,1567.0,2018-08-14,4,18.0
+E811719047,Sofía Sánchez Ortiz,Mantenimiento,1621.0,2022-02-11,3,33.0
+E811974003,Fernando Martínez Castillo,Seguridad y Salud Ocupacional,1783.0,2023-09-10,3,17.0
+E812104247,Jorge López Ramos,Tecnologías de la Información (TI),1581.0,2021-12-19,2,11.0
+E813557445,Pedro López Ramos,Recursos Humanos,1247.0,2017-07-13,4,17.0
+E813570635,Claudia Pérez Castillo,Contabilidad,2806.0,2020-03-02,4,32.0
+E813957072,ALEX SAUCEDO CULQUI,Legal,1827.0,2018-03-24,2,12.0
+E814237131,Laura Sánchez Morales,Marketing,5000.0,2017-07-03,4,31.0
+E815806548,Pedro Rodríguez Mendoza,Marketing,3491.0,2020-11-02,2,14.0
+E815919099,José Rodríguez Flores,Marketing,2840.0,2023-10-02,2,15.0
+E816230779,Juan González Ortiz,Legal,2234.0,2019-05-13,4,34.0
+E816414322,Luis García Flores,Ventas,5000.0,2022-04-08,4,24.0
+E817111057,Ana Ramírez Morales,Atención al Cliente,4371.0,2023-08-11,4,20.0
+E817394241,Claudia Martínez Torres,Desarrollo de Producto,4567.0,2023-07-21,4,25.0
+E817673017,EMILIO Roman Valentin,Legal,4493.0,2021-07-02,2,20.0
+E818246038,Miguel Pérez Morales,Tecnologías de la Información (TI),1401.0,2024-05-24,4,26.0
+E818280015,Samuel JESUS CERVERA,Ventas,3530.0,2021-12-17,4,39.0
+E818286979,Manuel López Morales,Responsabilidad Social Corporativa,1812.0,2024-03-18,2,20.0
+E819058322,Juan Sánchez Morales,Seguridad y Salud Ocupacional,1327.0,2007-07-31,4,30.0
+E819368573,Pedro Sánchez Torres,Seguridad y Salud Ocupacional,5000.0,2023-07-17,4,31.0
+E819381237,José López Ortiz,Legal,1794.0,2024-07-16,2,28.0
+E820667608,VERONICA Calero Maila,Dirección Estratégica,2936.0,2020-02-06,2,21.0
+E821159381,MONTSERRAT DIAZ VASQUEZ,Finanzas,2209.0,2021-12-09,3,19.0
+E821245705,Lucía Ramírez Torres,Estrategia y Planificación,4237.0,2019-01-04,4,37.0
+E821550951,JOSE CARBAJAL HUAMAN,Finanzas,4301.0,2003-08-14,3,17.0
+E821866709,MONTSERRAT Loza Lluco,Administración General,2536.0,2012-08-20,3,34.0
+E822241530,Juan Pérez Torres,Contabilidad,1669.0,2020-08-31,4,17.0
+E822273056,Álvaro Villibord Almendares,Compras,2040.0,2021-05-15,4,38.0
+E822509102,Miguel Cruz Gómez,Tecnologías de la Información (TI),852.0,2018-03-16,4,21.0
+E822717546,Isabel Sánchez Mendoza,Investigación y Desarrollo (I+D),858.0,2021-04-07,3,23.0
+E823337629,BEGOÑA Rosales Melgar,Investigación y Desarrollo (I+D),2251.0,2016-12-28,4,33.0
+E824312249,Pedro González Morales,Dirección Estratégica,1020.0,2022-01-18,4,32.0
+E825179912,José Pérez Mendoza,Contabilidad,3140.0,2020-04-09,3,25.0
+E826843344,Ana Ramírez Flores,Responsabilidad Social Corporativa,5000.0,2024-05-07,4,35.0
+E826966216,Carmen González Ramos,Contabilidad,4662.0,2023-10-27,4,34.0
+E827394748,Ana Pérez Ortiz,Desarrollo de Producto,4694.0,2022-08-04,4,24.0
+E827508408,ELENA Zamora Sanchez,Recursos Humanos,3902.0,2019-02-01,3,35.0
+E827851781,José Cruz Torres,Recursos Humanos,5000.0,2019-03-08,4,30.0
+E829072937,Sofía López Torres,Mantenimiento,4186.0,2023-12-06,4,15.0
+E829273915,EDUARDO Vasquez Tafur,Recursos Humanos,1255.0,2020-03-25,4,29.0
+E830628239,Manuel Pérez Chávez,Desarrollo de Producto,1893.0,2017-03-04,3,17.0
+E831499987,Carmen Martínez Torres,Estrategia y Planificación,2616.0,2023-09-10,4,23.0
+E831521169,TOMAS RIVERA VALVERDE,Finanzas,2025.0,2023-01-27,4,32.0
+E831860964,Jorge Sánchez Castillo,Compras,926.0,2023-06-24,3,30.0
+E832872470,Pedro Rodríguez Chávez,Ventas,1472.0,2019-05-31,2,30.0
+E833688356,Carmen García Suárez,Recursos Humanos,3457.0,2023-03-25,4,28.0
+E836035636,Luis Sánchez Chávez,Ventas,1465.0,2024-02-10,4,36.0
+E836465105,AURORA Quiroz Montoya,Dirección Estratégica,3788.0,2022-08-28,4,33.0
+E836554648,Jorge Martínez Flores,Calidad,2388.0,2020-12-24,4,29.0
+E836595736,AARON GAMARRA HERRERA,Atención al Cliente,1915.0,2014-08-06,4,36.0
+E837980409,Lucía García Ortiz,Recursos Humanos,1678.0,2017-02-20,4,30.0
+E838125577,DANIEL Echeverria Mendez,Administración General,1882.0,2016-12-18,4,24.0
+E838459926,MAR Ferrero López,Recursos Humanos,4600.0,2017-05-12,4,24.0
+E839216754,SALVADOR SANDI UREÑA,Contabilidad,1577.0,2021-11-03,4,25.0
+E839427740,Lucía Pérez Gómez,Estrategia y Planificación,863.0,2022-02-02,4,26.0
+E839849849,Fernando González Ramos,Seguridad y Salud Ocupacional,1044.0,2024-05-31,3,23.0
+E840501159,XAVIER Abanto Guerrero,Desarrollo de Producto,4028.0,2006-12-19,4,25.0
+E840676315,Pau Cho Diaz,Logística,1585.0,2010-10-31,3,36.0
+E841504979,Claudia González Chávez,Producción,2987.0,2023-12-28,4,26.0
+E842638208,ENCARNACION Tenesaca Lliviganay,Tecnologías de la Información (TI),2660.0,2020-07-20,4,26.0
+E843285123,Ana Pérez Mendoza,Seguridad y Salud Ocupacional,3523.0,2022-04-16,3,23.0
+E843334569,Claudia López Flores,Mantenimiento,3692.0,2018-03-16,4,41.0
+E844010329,Juan López Gómez,Producción,4195.0,2024-03-10,4,20.0
+E844148790,Mario Vasquez amaya,Calidad,3386.0,2011-07-13,2,13.0
+E844443297,GREGORIO Vasquez Guivar,Marketing,1396.0,2023-01-11,4,40.0
+E848592536,Juan Pérez Morales,Calidad,1730.0,2012-02-10,4,16.0
+E850092270,Luis Ramírez Suárez,Atención al Cliente,4398.0,2021-12-19,4,30.0
+E850144598,Miguel Cruz Torres,Responsabilidad Social Corporativa,762.0,2020-07-12,2,24.0
+E851038263,BORJA LUCERO HERNÁNDEZ,Ventas,1913.0,2014-06-24,2,14.0
+E851143024,Carlos Cruz Ramos,Tecnologías de la Información (TI),4166.0,2024-08-29,4,30.0
+E851496481,Ana Rodríguez Gómez,Desarrollo de Producto,3836.0,2024-07-06,4,32.0
+E851555946,Pedro Cruz Ramos,Logística,2639.0,2016-06-24,3,18.0
+E851564469,IKER Pisfil Agapito,Atención al Cliente,5000.0,2006-11-24,2,19.0
+E851601443,SEBASTIAN Suxe Correa,Desarrollo de Producto,4165.0,2011-01-08,4,22.0
+E851729767,EMILIA Acuna Narvaez,Logística,4181.0,2022-10-18,2,7.0
+E851841292,Francisco Rodríguez Castillo,Investigación y Desarrollo (I+D),3288.0,2018-12-21,4,32.0
+E852870035,CATALINA Garzón Gaona,Investigación y Desarrollo (I+D),4300.0,2006-03-31,4,35.0
+E853832409,Héctor Stucchi Chamba,Recursos Humanos,5000.0,2021-10-20,4,34.0
+E855829227,Luis Ramírez Torres,Contabilidad,2886.0,2020-01-29,4,27.0
+E856435406,Juan López Suárez,Comunicación Corporativa,5000.0,2018-12-21,4,25.0
+E857829531,Carmen Ramírez Castillo,Administración General,3981.0,2023-10-21,4,34.0
+E859418771,Juan López Suárez,Marketing,1235.0,2021-09-25,3,17.0
+E859702753,Pedro Martínez Morales,Responsabilidad Social Corporativa,2629.0,2024-08-05,4,29.0
+E860595485,Luis López Ramos,Desarrollo de Producto,4230.0,2022-11-08,2,21.0
+E861531887,Lucía Sánchez Mendoza,Seguridad y Salud Ocupacional,1733.0,2021-02-03,3,19.0
+E861603521,Carlos Angeles Bonilla,Administración General,3741.0,2009-01-12,4,35.0
+E861879872,Carlos Pérez Morales,Seguridad y Salud Ocupacional,2265.0,2023-02-26,4,28.0
+E862474838,Luis Ramírez Chávez,Producción,3894.0,2013-12-16,4,34.0
+E862504642,SANDRA Orenda Lopez,Legal,1946.0,2013-09-18,3,18.0
+E862887571,Juan Sánchez Ortiz,Marketing,1596.0,2022-04-18,3,29.0
+E862964424,Fernando García Flores,Comunicación Corporativa,4064.0,2019-09-13,2,19.0
+E863369057,Miguel Fernández Torres,Dirección Estratégica,4358.0,2021-04-13,4,27.0
+E863616853,Carlos González Ramos,Ventas,1473.0,2022-10-15,2,16.0
+E864992642,Amir perez cmapos,Finanzas,4245.0,2022-10-16,2,14.0
+E865186915,Juan López Gómez,Estrategia y Planificación,1068.0,2008-09-13,2,22.0
+E865625204,ALEXANDER Mego Fernández,Investigación y Desarrollo (I+D),1414.0,2019-11-16,4,19.0
+E865729573,Axel Estrella León,Ventas,2382.0,2021-05-15,2,9.0
+E866315306,MOHAMMED Leyton Neciosup,Marketing,2399.0,2014-01-18,3,23.0
+E866417124,Miguel Pérez Flores,Compras,2034.0,2024-09-28,2,25.0
+E866968716,María López Chávez,Ventas,1530.0,2022-02-17,2,26.0
+E867620604,Isabel Sánchez Torres,Calidad,3221.0,2021-10-16,4,23.0
+E870881120,Carlos Fernández Ortiz,Investigación y Desarrollo (I+D),2496.0,2019-02-15,4,35.0
+E873426027,CHRISTIAN Chafloque Navarro,Contabilidad,1304.0,2013-07-08,3,20.0
+E873491400,Thiago Fuentes Antezana,Administración General,4559.0,2017-09-13,4,27.0
+E874061005,Patricia Cruz Mendoza,Logística,697.0,2022-08-22,4,40.0
+E874098967,LUIS MIGUEL Torres Amari,Marketing,4524.0,2005-07-24,4,27.0
+E874924682,Manuel Cruz Suárez,Tecnologías de la Información (TI),3082.0,2024-09-04,2,16.0
+E875727432,Laura Fernández Chávez,Atención al Cliente,2155.0,2021-12-04,4,25.0
+E875774992,Luis Martínez Gómez,Administración General,4348.0,2021-07-14,2,22.0
+E876221689,Isaac BENITEZ LOPEZ,Estrategia y Planificación,2729.0,2022-12-15,4,31.0
+E876726021,María Fernández Mendoza,Compras,1672.0,2020-05-10,3,15.0
+E877679063,Luis Ramírez Gómez,Dirección Estratégica,3388.0,2023-06-26,4,36.0
+E877720502,Pedro López Castillo,Compras,1539.0,2017-07-13,2,16.0
+E878569562,NURIA Huaynate LLanos,Tecnologías de la Información (TI),1887.0,2021-10-10,4,25.0
+E878888209,Juan Martínez Chávez,Legal,2410.0,2024-06-02,2,15.0
+E879036388,María Rodríguez Chávez,Finanzas,2459.0,2021-02-02,2,29.0
+E879393081,José Sánchez Torres,Mantenimiento,4665.0,2023-02-20,2,9.0
+E880228876,José Martínez Suárez,Contabilidad,4261.0,2023-10-28,4,22.0
+E881234725,Jorge López Gómez,Administración General,1307.0,2021-01-13,4,30.0
+E881583728,Claudia Cruz Flores,Mantenimiento,730.0,2015-12-18,4,21.0
+E881601961,JULIAN Varela Vallejo,Estrategia y Planificación,3899.0,2019-11-03,4,31.0
+E882667858,SALVADOR TAFUR CALLIRGOS,Administración General,2415.0,2003-09-06,4,33.0
+E883553586,Manuel Fernández Suárez,Dirección Estratégica,2048.0,2014-02-05,4,23.0
+E883591279,Claudia Martínez Ortiz,Ventas,3998.0,2021-02-22,2,15.0
+E886118983,Martí Lama-Noriega Galve,Estrategia y Planificación,2789.0,2015-12-25,4,24.0
+E886714159,EVA Simisterra Huila,Dirección Estratégica,1862.0,2021-07-23,4,27.0
+E886766637,Francisco Ramírez Flores,Seguridad y Salud Ocupacional,446.0,2024-02-06,3,33.0
+E888665555,Jaime Botello Fernandez,Dirección Estratégica,5000.0,1999-10-10,2,10.0
+E890740997,Luis Pérez Ortiz,Atención al Cliente,4176.0,2024-07-31,4,39.0
+E890754098,Francisco López Mendoza,Desarrollo de Producto,2919.0,2022-06-07,3,19.0
+E891304752,Noah Chanamé Flores,Compras,3730.0,2017-12-26,3,28.0
+E891368651,MARIA TERESA CERVANTES PARVINA,Marketing,2824.0,2018-05-27,4,23.0
+E891532907,LIDIA Noguera Molina,Atención al Cliente,3081.0,2015-01-08,4,27.0
+E892024438,ADRIANA Moncada Montoya,Desarrollo de Producto,4191.0,2021-04-12,3,25.0
+E893798501,Juan Ramírez Chávez,Ventas,944.0,2023-07-18,2,11.0
+E894939998,Isabel Fernández Mendoza,Legal,3379.0,2023-05-09,4,33.0
+E895876853,Miguel González Suárez,Atención al Cliente,2647.0,2023-11-19,3,26.0
+E898409725,RAMON Vilchez Bances,Administración General,3581.0,1995-07-03,3,24.0
+E899779209,Ana García Mendoza,Comunicación Corporativa,870.0,2024-02-19,2,19.0
+E899939459,Víctor Navarro Díaz,Tecnologías de la Información (TI),5000.0,2007-08-27,2,11.0
+E900005116,CONSUELO Ramirez Gutierrez,Administración General,4329.0,2018-05-16,4,26.0
+E900103091,Carlos Pérez Gómez,Tecnologías de la Información (TI),5000.0,2024-06-14,3,15.0
+E900499316,Carlos Cruz Ortiz,Estrategia y Planificación,2267.0,2024-04-08,2,17.0
+E900688703,Juan Cruz Gómez,Administración General,3140.0,2024-04-11,4,35.0
+E902009037,Jorge Ramírez Mendoza,Atención al Cliente,3721.0,2023-04-13,4,32.0
+E902552621,ROCIO CARRASCO VALENCIA,Atención al Cliente,3757.0,2006-03-05,2,8.0
+E903066539,Laura González Morales,Desarrollo de Producto,2430.0,2020-10-09,4,34.0
+E903277746,OSCAR Monsalve Rodriguez,Logística,2024.0,2022-08-22,4,35.0
+E904079076,Claudia García Ortiz,Logística,1293.0,2023-08-11,4,33.0
+E905750883,MANUEL VIDAURRE ARENAS,Marketing,3151.0,2003-11-19,4,39.0
+E906198071,ANA Villa Rodríguez,Desarrollo de Producto,3334.0,2014-10-31,2,4.0
+E906757138,RAFAEL Delgado Muñoz,Tecnologías de la Información (TI),2319.0,2014-02-06,2,9.0
+E907205027,NIEVES Manzo Martínez,Tecnologías de la Información (TI),1486.0,2019-07-11,4,19.0
+E907353418,Ana García Suárez,Tecnologías de la Información (TI),2879.0,2021-11-24,3,24.0
+E907695319,Francisco García Gómez,Ventas,3312.0,2020-11-03,3,15.0
+E908472266,Luis Martínez Castillo,Finanzas,403.0,2020-08-21,4,32.0
+E910497611,Gabriela López Morales,Calidad,495.0,2024-03-22,4,31.0
+E910579158,Miguel González Ortiz,Mantenimiento,3120.0,2024-02-27,2,18.0
+E911141531,Claudia Martínez Gómez,Investigación y Desarrollo (I+D),3096.0,2016-11-07,4,33.0
+E911600148,Miguel Pérez Torres,Logística,629.0,2021-01-21,3,27.0
+E911624128,Gabriela Martínez Suárez,Mantenimiento,5000.0,2018-02-02,2,24.0
+E912297732,Juan Martínez Torres,Contabilidad,4637.0,2022-11-24,2,8.0
+E912410257,Lucía Martínez Chávez,Recursos Humanos,3496.0,2020-03-11,3,25.0
+E913087043,Claudia González Morales,Administración General,4621.0,2021-05-29,4,40.0
+E913181472,Ana González Flores,Comunicación Corporativa,3875.0,2020-01-29,4,38.0
+E913679643,Gabriela Cruz Torres,Marketing,4292.0,2020-09-25,2,18.0
+E913935530,MARIA SOLEDAD Arias Gutiérrez,Estrategia y Planificación,4204.0,2023-03-18,4,36.0
+E913954387,MARIA MERCEDES CASTILLO CORDOVA,Tecnologías de la Información (TI),4235.0,2020-03-21,4,30.0
+E914305438,Carlos González Mendoza,Ventas,5000.0,2014-10-17,3,21.0
+E914945699,Sergio MENESES CAICEDO,Administración General,1693.0,2020-09-09,4,35.0
+E915372272,Gabriela González Mendoza,Dirección Estratégica,2402.0,2019-12-10,3,16.0
+E915566148,ANTONIO Robles Marte,Investigación y Desarrollo (I+D),1206.0,2018-08-23,4,21.0
+E915917083,Claudia Pérez Suárez,Atención al Cliente,2233.0,2023-12-29,4,21.0
+E917679328,Carmen Sánchez Torres,Responsabilidad Social Corporativa,477.0,2012-12-14,4,27.0
+E917840232,Pedro Ramírez Morales,Mantenimiento,1185.0,2020-02-12,3,24.0
+E918098794,MARTINA Cruz Molina,Ventas,3404.0,2016-05-27,3,26.0
+E918896011,Francisco García Ramos,Finanzas,3277.0,2022-10-28,4,28.0
+E919201852,VICTORIA Arauz Huite,Legal,4401.0,2020-07-31,2,8.0
+E920159906,Pedro Rodríguez Chávez,Mantenimiento,4527.0,2022-04-18,4,40.0
+E920216634,Jorge Martínez Castillo,Desarrollo de Producto,5000.0,2023-06-30,4,32.0
+E920532103,Laura Fernández Castillo,Compras,644.0,2022-06-08,4,28.0
+E921425715,Sofía Pérez Ramos,Tecnologías de la Información (TI),1363.0,2023-02-06,2,14.0
+E921532190,Miguel Ramírez Castillo,Legal,5000.0,2024-02-13,2,20.0
+E921582832,Miguel Martínez Gómez,Marketing,915.0,2011-09-13,2,21.0
+E921873482,ROSA MARIA Guevara silva,Compras,4003.0,2012-09-23,2,3.0
+E922038068,Miguel Fernández Gómez,Calidad,3569.0,2024-04-05,3,13.0
+E922410206,Luis Sánchez Torres,Administración General,4927.0,2021-08-01,3,22.0
+E923007724,Íker Vejarano Cerna,Producción,4041.0,2016-03-24,2,17.0
+E923035468,Jon falcon lopez,Calidad,1863.0,2015-04-05,2,18.0
+E924074588,Miguel Cruz Mendoza,Atención al Cliente,1793.0,2023-11-21,3,25.0
+E924282130,Lucas Guevara Acuña,Marketing,4116.0,2023-01-20,4,31.0
+E924326290,Alonso Hernández Gutiérrez,Recursos Humanos,1821.0,2014-03-12,2,18.0
+E924551021,Luis López Castillo,Estrategia y Planificación,3293.0,2023-05-31,4,35.0
+E925309263,ADRIANA Gamboa Gutierrez,Producción,3451.0,2018-10-28,2,20.0
+E925535054,Carmen Martínez Ortiz,Estrategia y Planificación,4145.0,2021-10-08,2,20.0
+E927002094,MARCOS Arce Tejada,Logística,4071.0,2018-05-13,4,38.0
+E927134888,Unai González Eyeyo,Logística,1601.0,2017-05-12,3,24.0
+E927355676,ROSARIO CHAPOÑAN VALDERA,Administración General,2352.0,2021-06-05,3,28.0
+E928189821,Isabel Martínez Torres,Comunicación Corporativa,3545.0,2022-07-05,4,23.0
+E929915752,María López Suárez,Estrategia y Planificación,1248.0,2020-03-29,4,38.0
+E930922783,Ana Rodríguez Ortiz,Dirección Estratégica,435.0,2022-12-14,4,38.0
+E930993605,Carmen Pérez Ortiz,Atención al Cliente,1549.0,2023-01-01,4,29.0
+E932391914,Claudia Rodríguez Castillo,Ventas,4570.0,2024-09-04,4,34.0
+E932417610,José Martínez Ramos,Administración General,602.0,2022-01-02,4,28.0
+E932845154,Francisco Cruz Chávez,Contabilidad,3475.0,2019-04-14,4,19.0
+E933399083,Sofía Fernández Morales,Tecnologías de la Información (TI),3982.0,2021-03-02,4,23.0
+E934345973,HECTOR Cabrera Acuña,Recursos Humanos,3638.0,2020-01-21,2,24.0
+E934732193,Manuel Cruz Torres,Comunicación Corporativa,3946.0,2020-05-08,3,16.0
+E934805289,MARIA Llontop Pacherrez,Legal,2704.0,2018-05-13,3,35.0
+E935953532,Gabriela González Castillo,Investigación y Desarrollo (I+D),3249.0,2024-07-15,4,34.0
+E936021207,Francisco Fernández Castillo,Calidad,4465.0,2018-06-30,2,11.0
+E936373659,Manuel Martínez Suárez,Estrategia y Planificación,2482.0,2023-09-22,3,26.0
+E936506228,Jorge González Suárez,Desarrollo de Producto,1528.0,2022-12-02,4,24.0
+E936785633,Jorge Fernández Flores,Atención al Cliente,3055.0,2022-10-05,2,21.0
+E937450830,XAVIER Pazos Anezana,Logística,2652.0,2009-06-11,4,37.0
+E938242847,Miguel Pérez Gómez,Tecnologías de la Información (TI),1222.0,2024-04-03,2,11.0
+E938650281,Mateo ARIZA ACEVEDO,Tecnologías de la Información (TI),3050.0,2020-07-07,3,34.0
+E938829965,Laura Martínez Chávez,Recursos Humanos,1166.0,2020-07-27,3,16.0
+E939328746,José Rodríguez Flores,Ventas,4637.0,2024-07-12,4,35.0
+E939385979,Pedro Pérez Mendoza,Estrategia y Planificación,2977.0,2023-04-28,4,28.0
+E940593340,María Ramírez Ortiz,Desarrollo de Producto,1694.0,2016-01-02,4,31.0
+E940694394,Ana González Ortiz,Logística,4072.0,2023-06-12,4,23.0
+E941515400,Jorge López Chávez,Legal,2322.0,2019-03-11,4,30.0
+E941680615,LUCAS Ordoñez Cortez,Investigación y Desarrollo (I+D),1620.0,2004-12-09,4,22.0
+E941981142,Pedro Rodríguez Suárez,Calidad,3256.0,2022-06-29,3,13.0
+E942022180,Fernando Cruz Ramos,Finanzas,1508.0,2020-01-05,3,29.0
+E943061850,MARIO PERALTA BUSTAMANTE,Atención al Cliente,1652.0,2021-01-12,4,34.0
+E943120114,Manuel López Ramos,Dirección Estratégica,1310.0,2017-12-25,4,36.0
+E943539327,José Sánchez Morales,Atención al Cliente,1888.0,2021-07-22,2,21.0
+E944372974,JULIO Cruz Valle,Desarrollo de Producto,2460.0,2020-11-12,3,33.0
+E944445350,María Pérez Ortiz,Finanzas,4268.0,2023-12-15,3,28.0
+E944519837,Juan Martínez Torres,Contabilidad,2956.0,2021-10-20,4,25.0
+E944910774,MARTIN Hernandez Valdez,Logística,3174.0,2022-10-25,3,33.0
+E945553380,Laura Martínez Chávez,Desarrollo de Producto,1158.0,2021-05-05,4,25.0
+E945580114,Ana Cruz Castillo,Finanzas,4007.0,2020-01-31,2,9.0
+E945742913,VICTOR MANUEL GUERRERO ALTAMIRANO,Contabilidad,1261.0,2008-02-09,4,21.0
+E946260107,Francisco Fernández Flores,Finanzas,1948.0,2021-12-25,3,26.0
+E946983587,Ana Fernández Chávez,Calidad,433.0,2022-09-05,3,28.0
+E947423251,ESTHER Zarate Corona,Compras,2071.0,2016-02-24,4,40.0
+E947602840,Pedro Cruz Suárez,Logística,1046.0,2024-08-01,3,17.0
+E948990446,Gabriela Rodríguez Suárez,Compras,5000.0,2013-10-14,3,28.0
+E949034600,JORDI Solano Torres,Dirección Estratégica,1693.0,2023-03-22,2,11.0
+E949400968,Sofía Fernández Gómez,Recursos Humanos,2679.0,2018-12-15,2,20.0
+E949585209,VICTORIA Castro Fernandez,Estrategia y Planificación,4056.0,2019-04-21,4,41.0
+E950558668,JUAN LUIS Bonilla Anton,Marketing,1497.0,2019-11-10,4,24.0
+E952368574,Miguel González Torres,Marketing,2401.0,2023-02-06,2,6.0
+E952658795,Juan Rodríguez Gómez,Calidad,5000.0,2024-09-07,2,16.0
+E952681015,Carlos Rodríguez Castillo,Mantenimiento,711.0,2021-02-22,2,24.0
+E953093072,Francisco Rodríguez Suárez,Mantenimiento,4201.0,2023-08-31,2,8.0
+E953359277,José López Flores,Ventas,3661.0,2014-12-08,4,24.0
+E953437132,LORENZO rebaza guzman,Desarrollo de Producto,4328.0,2009-02-03,4,34.0
+E953481177,Carmen Pérez Ramos,Mantenimiento,2175.0,2019-06-29,4,27.0
+E953698833,Claudia Martínez Ramos,Comunicación Corporativa,4303.0,2023-02-21,2,14.0
+E954404434,Carmen Rodríguez Torres,Marketing,5000.0,2022-10-07,4,29.0
+E955111856,JOSEP MEDINA AGURTO,Marketing,4643.0,2012-04-28,4,25.0
+E955326866,Jorge Cruz Mendoza,Tecnologías de la Información (TI),3628.0,2021-12-13,3,21.0
+E956319403,Fernando Pérez Ortiz,Contabilidad,2793.0,2024-06-08,4,25.0
+E957291017,MONICA Navas López,Calidad,2167.0,2003-10-09,3,37.0
+E957491066,Juan Sánchez Castillo,Seguridad y Salud Ocupacional,767.0,2020-11-06,3,21.0
+E958719558,Patricia Sánchez Morales,Estrategia y Planificación,3226.0,2024-07-08,2,12.0
+E958743354,Claudia Rodríguez Castillo,Estrategia y Planificación,3276.0,2024-09-07,2,15.0
+E959572439,Juan Ramírez Ortiz,Finanzas,2375.0,2023-12-04,2,18.0
+E959851429,SARA RAMIREZ SANCHEZ,Finanzas,4546.0,2023-01-25,2,4.0
+E959915983,Fernando García Chávez,Atención al Cliente,3137.0,2008-12-14,4,32.0
+E960430729,Luis Rodríguez Gómez,Desarrollo de Producto,594.0,2019-08-07,4,29.0
+E960534447,Miguel Sánchez Gómez,Calidad,2690.0,2015-08-12,4,40.0
+E960709790,Pedro Martínez Suárez,Legal,3461.0,2012-05-10,3,25.0
+E960805376,SERGIO García Murillo,Logística,3883.0,2015-04-05,3,16.0
+E962285359,ANTONIA ESPINOZA HERRERA,Logística,1897.0,2020-10-15,4,29.0
+E962291421,CRISTINA Rodríguez Hernández,Legal,2693.0,2019-03-03,4,16.0
+E962593315,Lucía Fernández Torres,Atención al Cliente,1957.0,2023-02-24,2,14.0
+E962647866,Ana Cruz Torres,Contabilidad,2832.0,2006-01-12,2,21.0
+E963443152,ASUNCION Meneses Mendez,Tecnologías de la Información (TI),2744.0,2013-12-29,2,26.0
+E963683607,DIEGO De la Cruz Barrios,Legal,1802.0,2022-07-17,4,35.0
+E964650318,José García Suárez,Estrategia y Planificación,1982.0,2010-03-28,4,21.0
+E965431609,ALEXANDRA Gallego Osorio,Investigación y Desarrollo (I+D),4730.0,2002-06-26,4,27.0
+E965914085,FRANCISCO Arevalo Mendoza,Atención al Cliente,3844.0,2022-01-13,4,29.0
+E966870656,José García Ortiz,Contabilidad,3367.0,2023-09-16,2,22.0
+E967723527,Lucía Fernández Flores,Mantenimiento,615.0,2024-03-02,4,25.0
+E968103271,ENCARNACION casiano vargas,Marketing,3264.0,2020-01-25,4,29.0
+E968309147,Luis Cruz Flores,Ventas,1670.0,2021-05-13,3,22.0
+E968849933,Isabel García Castillo,Contabilidad,2258.0,2020-09-26,4,28.0
+E969082338,Isabel Sánchez Torres,Atención al Cliente,4179.0,2022-03-31,2,25.0
+E969738162,Arnau Jocol López,Ventas,1345.0,2023-03-14,4,30.0
+E970084636,Fernando Cruz Castillo,Atención al Cliente,650.0,2020-10-17,3,26.0
+E973287825,Sofía López Gómez,Seguridad y Salud Ocupacional,3503.0,2022-01-18,2,14.0
+E973674750,Lucía López Castillo,Mantenimiento,1630.0,2019-12-10,4,31.0
+E975221839,Carmen Rodríguez Gómez,Ventas,3375.0,2022-11-02,2,12.0
+E975448125,CLARA Romero Mendez,Logística,1596.0,2004-11-19,2,18.0
+E976200558,JONATHAN Fernández Navarro,Producción,2111.0,2018-04-22,2,16.0
+E979396859,ROSARIO Chancafe Huaman,Desarrollo de Producto,2897.0,2016-10-04,4,23.0
+E979485514,Sofía Sánchez Ramos,Compras,2562.0,2018-08-27,4,22.0
+E979868373,Laura García Ortiz,Estrategia y Planificación,1080.0,2021-07-02,4,38.0
+E979876436,Laura Sánchez Mendoza,Legal,5000.0,2024-06-20,3,33.0
+E980148783,CARLOS Ramos Mesas,Marketing,3142.0,2023-01-28,4,28.0
+E980725325,Laura García Chávez,Tecnologías de la Información (TI),1100.0,2016-10-22,4,34.0
+E981981981,María Perales Martos,Dirección Estratégica,2000.0,2000-09-26,1,15.0
+E982245488,Laura Martínez Torres,Calidad,2375.0,2021-08-21,4,29.0
+E982435413,LUISA Salazar Herrera,Finanzas,2147.0,2023-03-01,3,26.0
+E982727178,José Pérez Flores,Logística,3815.0,2019-03-05,3,20.0
+E983022250,Gabriela González Ramos,Marketing,1560.0,2012-01-13,4,36.0
+E983968779,Carlos López Castillo,Tecnologías de la Información (TI),4474.0,2023-01-09,4,32.0
+E984064965,FRANCISCO JOSE Farroñan torres,Finanzas,2584.0,2022-11-02,3,25.0
+E984313169,RAQUEL Guevara Sifuentes,Dirección Estratégica,3255.0,2020-06-20,4,25.0
+E985169384,JULIO Chapoñan Cajusol,Producción,3093.0,2019-01-07,3,22.0
+E986511417,Carmen Sánchez Suárez,Desarrollo de Producto,4226.0,2021-10-16,3,21.0
+E987654321,Jazmín Valdés Quispe,Administración General,4300.0,1990-12-10,3,55.0
+E987987987,Ahmed Jabbar Lopez,Administración General,2500.0,1998-05-13,3,65.0
+E990222061,Miguel Sánchez Ortiz,Ventas,3919.0,2018-05-28,4,26.0
+E990998791,PABLO Baldera Soto,Producción,2571.0,2007-05-05,4,26.0
+E991800687,Sofía Ramírez Gómez,Compras,926.0,2024-02-15,4,23.0
+E991826756,JOSE CARLOS Silva Aguilar,Finanzas,2155.0,2023-01-15,3,30.0
+E992156400,MARCOS Ramirez Cabanillas,Tecnologías de la Información (TI),1683.0,2022-05-22,3,31.0
+E992171230,Francisco Sánchez Castillo,Estrategia y Planificación,4066.0,2023-10-08,3,18.0
+E992505437,Juan Rodríguez Suárez,Estrategia y Planificación,3635.0,2024-08-31,4,17.0
+E993788260,PILAR SAMILLAN SIMARRA,Legal,2871.0,2018-05-25,3,20.0
+E994227417,FRANCISCO JAVIER Carpio Mendoza,Administración General,3671.0,2002-02-16,3,35.0
+E994300533,María Fernández Morales,Compras,1477.0,2023-12-08,4,26.0
+E994309592,Juan Pérez Gómez,Producción,2992.0,2021-11-17,2,14.0
+E995891347,Fernando Rodríguez Flores,Legal,3246.0,2022-09-18,4,27.0
+E995917366,Patricia Sánchez Flores,Calidad,2090.0,2012-12-21,4,29.0
+E996580611,Claudia González Castillo,Producción,3591.0,2015-10-12,3,28.0
+E997200819,Lucía Sánchez Chávez,Producción,3084.0,2024-01-08,3,22.0
+E997351544,Miguel Ramírez Mendoza,Estrategia y Planificación,532.0,2017-10-09,4,21.0
+E997803664,Miguel Ramírez Ramos,Recursos Humanos,1094.0,2022-11-24,3,19.0
+E997839529,Lucía Martínez Ramos,Producción,1470.0,2024-01-08,2,17.0
+E998293685,Patricia Sánchez Ortiz,Ventas,2906.0,2010-05-21,3,15.0
+E998943007,Claudia Cruz Ortiz,Ventas,2118.0,2024-08-05,4,37.0
+E999685945,Miguel Martínez Suárez,Legal,1394.0,2023-10-06,4,31.0
+E999887777,Alicia Zapata Torrealba,Administración General,2500.0,1978-11-06,3,70.0
